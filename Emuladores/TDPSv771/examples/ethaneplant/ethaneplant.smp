@@ -1,0 +1,1575 @@
+Torre Deetanizadora
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:%;-100;100;-100;100;
+M16:%;-500;500;-500;500;
+M17:%;0.00;100.00;0.00;100.00;
+M18:%;0.00;100.00;0.00;100.00;
+M19:%;0.00;100.00;0.00;100.00;
+M20:%;0.00;100.00;0.00;100.00;
+M21:%;0.00;100.00;0.00;100.00;
+M22:L/min;0.00;100.00;0.00;100.00;
+M23:%;0.00;100.00;0.00;100.00;
+M24:%;0.00;100.00;0.00;100.00;
+M25:%;0.00;100.00;0.00;100.00;
+M26:L/min;0.00;1000;0.00;1000;
+M27:%;0.00;100.00;0.00;100.00;
+M28:%;0.00;100.00;0.00;100.00;
+M29:L/min;0.00;1000;0.00;1000;
+M30:%;0.00;100.00;0.00;100.00;
+M31:%;0.00;100.00;0.00;100.00;
+M32:%;0.00;100.00;0.00;100.00;
+M33:%;0.00;100.00;0.00;100.00;
+M34:%;0.00;100.00;0.00;100.00;
+M35:%;0.00;100.00;0.00;100.00;
+M36:%;0.00;100.00;0.00;100.00;
+M37:%;0.00;100.00;0.00;100.00;
+M38:%;0.00;100.00;0.00;100.00;
+M39:%;0.00;100.00;0.00;100.00;
+M40:%;0.00;100.00;0.00;100.00;
+M41:%;0.00;100.00;0.00;100.00;
+M42:%;0.00;100.00;0.00;100.00;
+M43:%;0.00;100.00;0.00;100.00;
+M44:%;0.00;100.00;0.00;100.00;
+M45:%;0.00;100.00;0.00;100.00;
+M46:%;0.00;100.00;0.00;100.00;
+M47:%;0.00;100.00;0.00;100.00;
+M48:%;0.00;100.00;0.00;100.00;
+M49:%;0.00;100.00;0.00;100.00;
+M50:%;0.00;100.00;0.00;100.00;
+M51:%;0.00;100.00;0.00;100.00;
+M52:%;0.00;100.00;0.00;100.00;
+M53:%;0.00;100.00;0.00;100.00;
+M54:%;0.00;100.00;0.00;100.00;
+M55:%;0.00;100.00;0.00;100.00;
+M56:oC;0.00;180;0.00;180;
+M57:%;0.00;100.00;0.00;100.00;
+M58:%;0.00;100.00;0.00;100.00;
+M59:%;0.00;100.00;0.00;100.00;
+M60:%;0.00;100.00;0.00;100.00;
+M61:%;0.00;100.00;0.00;100.00;
+M62:%;0.00;100.00;0.00;100.00;
+M63:%;0.00;100.00;0.00;100.00;
+M64:%;0.00;100.00;0.00;100.00;
+M65:%;0.00;100.00;0.00;100.00;
+M66:%;0.00;100.00;0.00;100.00;
+M67:%;0.00;100.00;0.00;100.00;
+M68:%;0.00;100.00;0.00;100.00;
+M69:%;0.00;100.00;0.00;100.00;
+M70:%;0.00;100.00;0.00;100.00;
+M71:%;0.00;100.00;0.00;100.00;
+M72:%;0.00;100.00;0.00;100.00;
+M73:%;0.00;100.00;0.00;100.00;
+M74:%;0.00;100.00;0.00;100.00;
+M75:%;0.00;100.00;0.00;100.00;
+M76:%;0.00;100.00;0.00;100.00;
+M77:%;0.00;100.00;0.00;100.00;
+M78:%;0.00;100.00;0.00;100.00;
+M79:%;0.00;100.00;0.00;100.00;
+M80:%;0.00;100.00;0.00;100.00;
+M81:L/min;0.00;1000;0.00;1000;
+M82:%;0.00;100.00;0.00;100.00;
+M83:%;0.00;100.00;0.00;100.00;
+M84:%;0.00;100.00;0.00;100.00;
+M85:%;0.00;100.00;0.00;100.00;
+M86:%;0.00;100.00;0.00;100.00;
+M87:%;0.00;100.00;0.00;100.00;
+M88:%;0.00;100.00;0.00;100.00;
+M89:%;0.00;100.00;0.00;100.00;
+M90:%;0.00;100.00;0.00;100.00;
+M91:%;0.00;100.00;0.00;100.00;
+M92:%;0.00;100.00;0.00;100.00;
+M93:%;0.00;100.00;0.00;100.00;
+M94:%;0.00;100.00;0.00;100.00;
+M95:%;0.00;100.00;0.00;100.00;
+M96:%;0.00;100.00;0.00;100.00;
+<<Tracks>>
+TRUE
+Bias
+635
+668
+ 8.20000000000000E+0001
+FALSE
+TRUE
+Bias
+534
+262
+ 4.50000000000000E+0001
+FALSE
+FALSE
+
+234
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+298
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+362
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+426
+788
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:LIC2401
+{C01/02} Desc: SP LIC2401
+{C01/03} Kc:3.6782
+{C01/04} Ti:47.2
+{C01/05} Td:0
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax:0.00
+{C01/12} Escala PVmin:100.00
+{C01/13} BackMV CK:True
+{C01/14} Indice lista PV:42
+{C01/15} Indice lista SPR:92
+{C01/16} Endereço  BackMV:56
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:False
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:0
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:-25.13
+{C01/24} Erroant:-5.41
+{C01/25} PVant:44.59
+{C01/26} Habilita Modo Remoto:True
+{C01/27} Habilita Modo Auto:True
+{C01/28} 50.00
+{C01/29} 4.99
+=====<<<CONTROLADOR:02>>>=====
+{C02/01} Tag:TIC2402
+{C02/02} Desc: SP TIC2402
+{C02/03} Kc:2.5204
+{C02/04} Ti:18.2397
+{C02/05} Td:0
+{C02/06} Bias:50
+{C02/07} Fator a:1
+{C02/08} Tf Filtro:0
+{C02/09} COmim:0
+{C02/10} COMax:100
+{C02/11} Escala PVMax:0.00
+{C02/12} Escala PVmin:180
+{C02/13} BackMV CK:True
+{C02/14} Indice lista PV:55
+{C02/15} Indice lista SPR:90
+{C02/16} Endereço  BackMV:52
+{C02/17} Acao FF:50
+{C02/18} Habilita SPR:True
+{C02/19} Habilita FF:False
+{C02/20} Tipo acao:1
+{C02/21} Derivada na PV:1
+{C02/22} Estrutura ISA:1
+{C02/23} Iant:7.22
+{C02/24} Erroant:-3.68
+{C02/25} PVant:43.68
+{C02/26} Habilita Modo Remoto:False
+{C02/27} Habilita Modo Auto:True
+{C02/28} 40.00
+{C02/29} 47.94
+=====<<<CONTROLADOR:03>>>=====
+{C03/01} Tag:FIC2403
+{C03/02} Desc: SP FIC2403
+{C03/03} Kc:0.8921
+{C03/04} Ti:1.646
+{C03/05} Td:0
+{C03/06} Bias:50
+{C03/07} Fator a:1
+{C03/08} Tf Filtro:0
+{C03/09} COmim:0
+{C03/10} COMax:100
+{C03/11} Escala PVMax:0.00
+{C03/12} Escala PVmin:100.00
+{C03/13} BackMV CK:False
+{C03/14} Indice lista PV:21
+{C03/15} Indice lista SPR:52
+{C03/16} Endereço  BackMV:1
+{C03/17} Acao FF:50
+{C03/18} Habilita SPR:True
+{C03/19} Habilita FF:False
+{C03/20} Tipo acao:1
+{C03/21} Derivada na PV:1
+{C03/22} Estrutura ISA:1
+{C03/23} Iant:-2.69
+{C03/24} Erroant:0.75
+{C03/25} PVant:45.77
+{C03/26} Habilita Modo Remoto:False
+{C03/27} Habilita Modo Auto:True
+{C03/28} 46.51
+{C03/29} 47.97
+=====<<<CONTROLADOR:04>>>=====
+{C04/01} Tag:PIC2404
+{C04/02} Desc: SP PIC2404
+{C04/03} Kc:0.7757
+{C04/04} Ti:0.4111
+{C04/05} Td:0
+{C04/06} Bias:50
+{C04/07} Fator a:1
+{C04/08} Tf Filtro:0
+{C04/09} COmim:0
+{C04/10} COMax:100
+{C04/11} Escala PVMax:0.00
+{C04/12} Escala PVmin:100.00
+{C04/13} BackMV CK:False
+{C04/14} Indice lista PV:57
+{C04/15} Indice lista SPR:93
+{C04/16} Endereço  BackMV:1
+{C04/17} Acao FF:M47
+{C04/18} Habilita SPR:False
+{C04/19} Habilita FF:False
+{C04/20} Tipo acao:0
+{C04/21} Derivada na PV:1
+{C04/22} Estrutura ISA:1
+{C04/23} Iant:42.34
+{C04/24} Erroant:9.87
+{C04/25} PVant:64.87
+{C04/26} Habilita Modo Remoto:True
+{C04/27} Habilita Modo Auto:True
+{C04/28} 55.00
+{C04/29} 100.00
+=====<<<CONTROLADOR:05>>>=====
+{C05/01} Tag:LIC2301
+{C05/02} Desc: SP LIC2301
+{C05/03} Kc:0.3588
+{C05/04} Ti:384.4000
+{C05/05} Td:0
+{C05/06} Bias:50
+{C05/07} Fator a:1
+{C05/08} Tf Filtro:0
+{C05/09} COmim:0
+{C05/10} COMax:100
+{C05/11} Escala PVMax:0.00
+{C05/12} Escala PVmin:100.00
+{C05/13} BackMV CK:False
+{C05/14} Indice lista PV:29
+{C05/15} Indice lista SPR:91
+{C05/16} Endereço  BackMV:1
+{C05/17} Acao FF:50
+{C05/18} Habilita SPR:False
+{C05/19} Habilita FF:False
+{C05/20} Tipo acao:0
+{C05/21} Derivada na PV:1
+{C05/22} Estrutura ISA:1
+{C05/23} Iant:-5.70
+{C05/24} Erroant:-5.31
+{C05/25} PVant:44.69
+{C05/26} Habilita Modo Remoto:True
+{C05/27} Habilita Modo Auto:True
+{C05/28} 50.00
+{C05/29} 42.39
+=====<<<CONTROLADOR:06>>>=====
+{C06/01} Tag:FIC2302
+{C06/02} Desc: SP FIC2302
+{C06/03} Kc:1.3864
+{C06/04} Ti:3.0274
+{C06/05} Td:0
+{C06/06} Bias:50
+{C06/07} Fator a:1
+{C06/08} Tf Filtro:0
+{C06/09} COmim:0
+{C06/10} COMax:100
+{C06/11} Escala PVMax:0.00
+{C06/12} Escala PVmin:1000
+{C06/13} BackMV CK:False
+{C06/14} Indice lista PV:28
+{C06/15} Indice lista SPR:4
+{C06/16} Endereço  BackMV:1
+{C06/17} Acao FF:50
+{C06/18} Habilita SPR:True
+{C06/19} Habilita FF:False
+{C06/20} Tipo acao:1
+{C06/21} Derivada na PV:1
+{C06/22} Estrutura ISA:1
+{C06/23} Iant:-11.82
+{C06/24} Erroant:-0.54
+{C06/25} PVant:42.94
+{C06/26} Habilita Modo Remoto:False
+{C06/27} Habilita Modo Auto:True
+{C06/28} 42.39
+{C06/29} 37.43
+<Process>
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+True
+True
+True
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:TT2415a
+{P21/02} Desc:Influencia Temp. Entrada
+{P21/03} Indice lista PV:23
+{P21/04} Tal 1:0
+{P21/05} Tal 2:0
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:0
+{P21/08} Tempo Morto:7
+{P21/09} Ganho:1
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:0
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:6.83
+{P21/19} Y2:8.29
+{P21/20} Y0old:8.29
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:7.00
+{P21/24} IntAc1:8.29
+{P21/25} IntAc2:8.29
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:FT2403
+{P22/02} Desc:FT2403
+{P22/03} Indice lista PV:2
+{P22/04} Tal 1:1.2
+{P22/05} Tal 2:0.5
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:1
+{P22/08} Tempo Morto:0.3
+{P22/09} Ganho:0.98*(1+0.01*M87)
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:0.5
+{P22/14} Tipo FT:0
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:47.84
+{P22/19} Y2:45.77
+{P22/20} Y0old:46.32
+{P22/21} Y1old:0.00
+{P22/22} Y1old2:0.00
+{P22/23} x5old:46.50
+{P22/24} IntAc1:46.52
+{P22/25} IntAc2:46.66
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:FT2412b
+{P23/02} Desc:Vazão de Reciclo
+{P23/03} Indice lista PV:53
+{P23/04} Tal 1:2
+{P23/05} Tal 2:5
+{P23/06} Habilita Desat Sat:False
+{P23/07} Histerese:0.7
+{P23/08} Tempo Morto:2
+{P23/09} Ganho:1
+{P23/10} Tipo Valv:0
+{P23/11} Agarramento:0.5
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:5
+{P23/14} Tipo FT:0
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:58.20
+{P23/19} Y2:56.71
+{P23/20} Y0old:57.01
+{P23/21} Y1old:0.00
+{P23/22} Y1old2:0.00
+{P23/23} x5old:56.40
+{P23/24} IntAc1:56.87
+{P23/25} IntAc2:56.71
+=====<<<PROCESSO:24>>>=====
+{P24/01} Tag:TT2415b
+{P24/02} Desc:
+{P24/03} Indice lista PV:85
+{P24/04} Tal 1:8
+{P24/05} Tal 2:0
+{P24/06} Habilita Desat Sat:False
+{P24/07} Histerese:0
+{P24/08} Tempo Morto:0
+{P24/09} Ganho:1
+{P24/10} Tipo Valv:0
+{P24/11} Agarramento:0
+{P24/12} RateLimiter:0
+{P24/13} Const. Tempo Atuador:0
+{P24/14} Tipo FT:0
+{P24/15} Num.Ciclos:1x10
+{P24/16} Lead:0
+{P24/17} Lag:0
+{P24/18} X0:5.31
+{P24/19} Y2:6.81
+{P24/20} Y0old:5.31
+{P24/21} Y1old:0.00
+{P24/22} Y1old2:0.00
+{P24/23} x5old:4.40
+{P24/24} IntAc1:6.81
+{P24/25} IntAc2:6.81
+=====<<<PROCESSO:25>>>=====
+{P25/01} Tag:PI2404c
+{P25/02} Desc:
+{P25/03} Indice lista PV:50
+{P25/04} Tal 1:3
+{P25/05} Tal 2:3
+{P25/06} Habilita Desat Sat:True
+{P25/07} Histerese:0
+{P25/08} Tempo Morto:1
+{P25/09} Ganho:1
+{P25/10} Tipo Valv:0
+{P25/11} Agarramento:0
+{P25/12} RateLimiter:0
+{P25/13} Const. Tempo Atuador:0
+{P25/14} Tipo FT:2
+{P25/15} Num.Ciclos:1x10
+{P25/16} Lead:4
+{P25/17} Lag:2
+{P25/18} X0:43.31
+{P25/19} Y2:44.87
+{P25/20} Y0old:43.18
+{P25/21} Y1old:44.87
+{P25/22} Y1old2:0.00
+{P25/23} x5old:43.20
+{P25/24} IntAc1:0.00
+{P25/25} IntAc2:0.00
+=====<<<PROCESSO:26>>>=====
+{P26/01} Tag:FT2407
+{P26/02} Desc:Vazão de GLP
+{P26/03} Indice lista PV:56
+{P26/04} Tal 1:1.3
+{P26/05} Tal 2:0
+{P26/06} Habilita Desat Sat:False
+{P26/07} Histerese:0.4
+{P26/08} Tempo Morto:0.4
+{P26/09} Ganho:1.1
+{P26/10} Tipo Valv:0
+{P26/11} Agarramento:10
+{P26/12} RateLimiter:0
+{P26/13} Const. Tempo Atuador:0.2
+{P26/14} Tipo FT:0
+{P26/15} Num.Ciclos:1x10
+{P26/16} Lead:0
+{P26/17} Lag:0
+{P26/18} X0:-1.55
+{P26/19} Y2:29.29
+{P26/20} Y0old:26.63
+{P26/21} Y1old:0.00
+{P26/22} Y1old2:0.00
+{P26/23} x5old:26.20
+{P26/24} IntAc1:26.63
+{P26/25} IntAc2:26.63
+=====<<<PROCESSO:27>>>=====
+{P27/01} Tag:LT2401
+{P27/02} Desc:Nível Condensado
+{P27/03} Indice lista PV:47
+{P27/04} Tal 1:3
+{P27/05} Tal 2:3
+{P27/06} Habilita Desat Sat:False
+{P27/07} Histerese:0
+{P27/08} Tempo Morto:0
+{P27/09} Ganho:0.02
+{P27/10} Tipo Valv:0
+{P27/11} Agarramento:0
+{P27/12} RateLimiter:0
+{P27/13} Const. Tempo Atuador:0
+{P27/14} Tipo FT:3
+{P27/15} Num.Ciclos:1x10
+{P27/16} Lead:0
+{P27/17} Lag:0
+{P27/18} X0:-4.75
+{P27/19} Y2:44.56
+{P27/20} Y0old:-4.75
+{P27/21} Y1old:44.56
+{P27/22} Y1old2:0.00
+{P27/23} x5old:-4.80
+{P27/24} IntAc1:0.00
+{P27/25} IntAc2:0.00
+=====<<<PROCESSO:28>>>=====
+{P28/01} Tag:PT2404
+{P28/02} Desc:PT2404
+{P28/03} Indice lista PV:48
+{P28/04} Tal 1:0.3
+{P28/05} Tal 2:0.2
+{P28/06} Habilita Desat Sat:False
+{P28/07} Histerese:0
+{P28/08} Tempo Morto:0.1
+{P28/09} Ganho:0.8
+{P28/10} Tipo Valv:0
+{P28/11} Agarramento:0
+{P28/12} RateLimiter:0
+{P28/13} Const. Tempo Atuador:0
+{P28/14} Tipo FT:0
+{P28/15} Num.Ciclos:1x10
+{P28/16} Lead:0
+{P28/17} Lag:0
+{P28/18} X0:0.00
+{P28/19} Y2:0.00
+{P28/20} Y0old:0.00
+{P28/21} Y1old:0.00
+{P28/22} Y1old2:0.00
+{P28/23} x5old:0.00
+{P28/24} IntAc1:0.00
+{P28/25} IntAc2:0.00
+=====<<<PROCESSO:29>>>=====
+{P29/01} Tag:FT2302
+{P29/02} Desc:FT2302
+{P29/03} Indice lista PV:5
+{P29/04} Tal 1:2.5
+{P29/05} Tal 2:1
+{P29/06} Habilita Desat Sat:False
+{P29/07} Histerese:0
+{P29/08} Tempo Morto:0.3
+{P29/09} Ganho:1.1
+{P29/10} Tipo Valv:0
+{P29/11} Agarramento:1.3
+{P29/12} RateLimiter:0
+{P29/13} Const. Tempo Atuador:0
+{P29/14} Tipo FT:0
+{P29/15} Num.Ciclos:1x10
+{P29/16} Lead:0
+{P29/17} Lag:0
+{P29/18} X0:37.45
+{P29/19} Y2:42.94
+{P29/20} Y0old:38.69
+{P29/21} Y1old:0.00
+{P29/22} Y1old2:0.00
+{P29/23} x5old:39.20
+{P29/24} IntAc1:38.91
+{P29/25} IntAc2:39.04
+=====<<<PROCESSO:30>>>=====
+{P30/01} Tag:LT2301
+{P30/02} Desc:Nível VS23
+{P30/03} Indice lista PV:49
+{P30/04} Tal 1:3
+{P30/05} Tal 2:3
+{P30/06} Habilita Desat Sat:False
+{P30/07} Histerese:0
+{P30/08} Tempo Morto:0.5
+{P30/09} Ganho:0.03
+{P30/10} Tipo Valv:0
+{P30/11} Agarramento:0
+{P30/12} RateLimiter:0
+{P30/13} Const. Tempo Atuador:2
+{P30/14} Tipo FT:3
+{P30/15} Num.Ciclos:1x10
+{P30/16} Lead:0
+{P30/17} Lag:0
+{P30/18} X0:-9.44
+{P30/19} Y2:44.69
+{P30/20} Y0old:-10.52
+{P30/21} Y1old:44.69
+{P30/22} Y1old2:0.00
+{P30/23} x5old:-10.20
+{P30/24} IntAc1:0.00
+{P30/25} IntAc2:0.00
+=====<<<PROCESSO:31>>>=====
+{P31/01} Tag:LT2401DT1
+{P31/02} Desc:Atraso efeito FT2302
+{P31/03} Indice lista PV:28
+{P31/04} Tal 1:0
+{P31/05} Tal 2:0
+{P31/06} Habilita Desat Sat:False
+{P31/07} Histerese:0
+{P31/08} Tempo Morto:5
+{P31/09} Ganho:1
+{P31/10} Tipo Valv:0
+{P31/11} Agarramento:0
+{P31/12} RateLimiter:0
+{P31/13} Const. Tempo Atuador:0
+{P31/14} Tipo FT:0
+{P31/15} Num.Ciclos:1x10
+{P31/16} Lead:0
+{P31/17} Lag:0
+{P31/18} X0:42.94
+{P31/19} Y2:43.33
+{P31/20} Y0old:43.33
+{P31/21} Y1old:0.00
+{P31/22} Y1old2:0.00
+{P31/23} x5old:43.00
+{P31/24} IntAc1:43.33
+{P31/25} IntAc2:43.33
+=====<<<PROCESSO:32>>>=====
+{P32/01} Tag:TT2410%
+{P32/02} Desc:Temp Oleo com Atraso
+{P32/03} Indice lista PV:82
+{P32/04} Tal 1:0
+{P32/05} Tal 2:0
+{P32/06} Habilita Desat Sat:False
+{P32/07} Histerese:0
+{P32/08} Tempo Morto:4
+{P32/09} Ganho:1
+{P32/10} Tipo Valv:0
+{P32/11} Agarramento:0
+{P32/12} RateLimiter:0
+{P32/13} Const. Tempo Atuador:0
+{P32/14} Tipo FT:0
+{P32/15} Num.Ciclos:1x10
+{P32/16} Lead:0
+{P32/17} Lag:0
+{P32/18} X0:52.64
+{P32/19} Y2:51.91
+{P32/20} Y0old:51.91
+{P32/21} Y1old:0.00
+{P32/22} Y1old2:0.00
+{P32/23} x5old:52.60
+{P32/24} IntAc1:51.91
+{P32/25} IntAc2:51.91
+=====<<<PROCESSO:33>>>=====
+{P33/01} Tag:TT2402
+{P33/02} Desc:Contribuição de Trocas Térmicas
+{P33/03} Indice lista PV:40
+{P33/04} Tal 1:10
+{P33/05} Tal 2:0
+{P33/06} Habilita Desat Sat:False
+{P33/07} Histerese:0
+{P33/08} Tempo Morto:0.8
+{P33/09} Ganho:0.05+0.05*M42
+{P33/10} Tipo Valv:0
+{P33/11} Agarramento:0
+{P33/12} RateLimiter:0
+{P33/13} Const. Tempo Atuador:2.2
+{P33/14} Tipo FT:3
+{P33/15} Num.Ciclos:1x10
+{P33/16} Lead:0
+{P33/17} Lag:0
+{P33/18} X0:-6.67
+{P33/19} Y2:55.39
+{P33/20} Y0old:-6.60
+{P33/21} Y1old:55.39
+{P33/22} Y1old2:0.00
+{P33/23} x5old:-6.80
+{P33/24} IntAc1:0.00
+{P33/25} IntAc2:0.00
+=====<<<PROCESSO:34>>>=====
+{P34/01} Tag:Erro_pond
+{P34/02} Desc:
+{P34/03} Indice lista PV:50
+{P34/04} Tal 1:8
+{P34/05} Tal 2:0
+{P34/06} Habilita Desat Sat:False
+{P34/07} Histerese:0
+{P34/08} Tempo Morto:4
+{P34/09} Ganho:1
+{P34/10} Tipo Valv:0
+{P34/11} Agarramento:0
+{P34/12} RateLimiter:0
+{P34/13} Const. Tempo Atuador:0
+{P34/14} Tipo FT:0
+{P34/15} Num.Ciclos:1x10
+{P34/16} Lead:0
+{P34/17} Lag:0
+{P34/18} X0:43.31
+{P34/19} Y2:37.82
+{P34/20} Y0old:40.19
+{P34/21} Y1old:0.00
+{P34/22} Y1old2:0.00
+{P34/23} x5old:43.20
+{P34/24} IntAc1:37.82
+{P34/25} IntAc2:37.82
+=====<<<PROCESSO:37>>>=====
+{P37/01} Tag:FY2302
+{P37/02} Desc:FF para FT2302
+{P37/03} Indice lista PV:28
+{P37/04} Tal 1:3
+{P37/05} Tal 2:3
+{P37/06} Habilita Desat Sat:False
+{P37/07} Histerese:0
+{P37/08} Tempo Morto:0.6
+{P37/09} Ganho:1
+{P37/10} Tipo Valv:0
+{P37/11} Agarramento:0
+{P37/12} RateLimiter:0
+{P37/13} Const. Tempo Atuador:0
+{P37/14} Tipo FT:2
+{P37/15} Num.Ciclos:1x10
+{P37/16} Lead:0
+{P37/17} Lag:0
+{P37/18} X0:42.94
+{P37/19} Y2:43.03
+{P37/20} Y0old:43.03
+{P37/21} Y1old:43.03
+{P37/22} Y1old2:0.00
+{P37/23} x5old:43.00
+{P37/24} IntAc1:0.00
+{P37/25} IntAc2:0.00
+=====<<<PROCESSO:38>>>=====
+{P38/01} Tag:TY2415
+{P38/02} Desc:FF para TT2415
+{P38/03} Indice lista PV:23
+{P38/04} Tal 1:3
+{P38/05} Tal 2:3
+{P38/06} Habilita Desat Sat:True
+{P38/07} Histerese:0
+{P38/08} Tempo Morto:3
+{P38/09} Ganho:-1.8
+{P38/10} Tipo Valv:0
+{P38/11} Agarramento:0
+{P38/12} RateLimiter:0
+{P38/13} Const. Tempo Atuador:0
+{P38/14} Tipo FT:2
+{P38/15} Num.Ciclos:1x10
+{P38/16} Lead:13.5
+{P38/17} Lag:7
+{P38/18} X0:6.81
+{P38/19} Y2:-14.28
+{P38/20} Y0old:7.81
+{P38/21} Y1old:7.93
+{P38/22} Y1old2:0.00
+{P38/23} x5old:7.00
+{P38/24} IntAc1:0.00
+{P38/25} IntAc2:0.00
+=====<<<PROCESSO:39>>>=====
+{P39/01} Tag:TY2410
+{P39/02} Desc:FF para TT2410
+{P39/03} Indice lista PV:82
+{P39/04} Tal 1:3
+{P39/05} Tal 2:3
+{P39/06} Habilita Desat Sat:False
+{P39/07} Histerese:0
+{P39/08} Tempo Morto:2.9
+{P39/09} Ganho:-1
+{P39/10} Tipo Valv:0
+{P39/11} Agarramento:0
+{P39/12} RateLimiter:0
+{P39/13} Const. Tempo Atuador:0
+{P39/14} Tipo FT:2
+{P39/15} Num.Ciclos:1x10
+{P39/16} Lead:13.5
+{P39/17} Lag:19.16
+{P39/18} X0:52.64
+{P39/19} Y2:-51.16
+{P39/20} Y0old:52.14
+{P39/21} Y1old:51.16
+{P39/22} Y1old2:0.00
+{P39/23} x5old:52.60
+{P39/24} IntAc1:0.00
+{P39/25} IntAc2:0.00
+<Blocs>
+True
+True
+True
+False
+True
+False
+False
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:TT2402c
+{B41/02} Desc:Balaço de Energia
+{B41/03} Funcao:M32*M22/100+25-M33
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:-5
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:TT2402b
+{B42/02} Desc:Detector (1=Aquec, 0=Resf)
+{B42/03} Funcao:(M41-1)*1000000
+{B42/04} Lim Sup:1
+{B42/05} Lim Inf:0
+{B42/06} Habilita Lim Sup:True
+{B42/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:43>>>=====
+{B43/01} Tag:LT2401b
+{B43/02} Desc:Nivel Efeito borbulhamento
+{B43/03} Funcao:M27+0.4*M87
+{B43/04} Lim Sup:100
+{B43/05} Lim Inf:0
+{B43/06} Habilita Lim Sup:True
+{B43/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:45>>>=====
+{B45/01} Tag:Erro_Nivel
+{B45/02} Desc:
+{B45/03} Funcao:(M27-M93)>(M93-M27)
+{B45/04} Lim Sup:105
+{B45/05} Lim Inf:-5
+{B45/06} Habilita Lim Sup:False
+{B45/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:48>>>=====
+{B48/01} Tag:LT2401_BM
+{B48/02} Desc:Balanço de Massa TF24
+{B48/03} Funcao:M31-M26-M55
+{B48/04} Lim Sup:105
+{B48/05} Lim Inf:-5
+{B48/06} Habilita Lim Sup:False
+{B48/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:49>>>=====
+{B49/01} Tag:PI2404a
+{B49/02} Desc:
+{B49/03} Funcao:(100-M04)
+{B49/04} Lim Sup:105
+{B49/05} Lim Inf:-5
+{B49/06} Habilita Lim Sup:False
+{B49/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:50>>>=====
+{B50/01} Tag:LT2301_BM
+{B50/02} Desc:Balanço de Massa VS23
+{B50/03} Funcao:M81-M29
+{B50/04} Lim Sup:105
+{B50/05} Lim Inf:-5
+{B50/06} Habilita Lim Sup:False
+{B50/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:51>>>=====
+{B51/01} Tag:Erro_Pond
+{B51/02} Desc:
+{B51/03} Funcao:M52^2+M45^2
+{B51/04} Lim Sup:100
+{B51/05} Lim Inf:0
+{B51/06} Habilita Lim Sup:True
+{B51/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:52>>>=====
+{B52/01} Tag:Erro_Temp
+{B52/02} Desc:
+{B52/03} Funcao:(M91-M56)>(M56-M91)
+{B52/04} Lim Sup:105
+{B52/05} Lim Inf:-5
+{B52/06} Habilita Lim Sup:False
+{B52/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:53>>>=====
+{B53/01} Tag:TY2402a
+{B53/02} Desc:Soma FF+FB
+{B53/03} Funcao:(1-M12)*(2*M15-100+M39+M38)+M02
+{B53/04} Lim Sup:105
+{B53/05} Lim Inf:-5
+{B53/06} Habilita Lim Sup:False
+{B53/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:54>>>=====
+{B54/01} Tag:FT2412a
+{B54/02} Desc:Vazão de Reciclo
+{B54/03} Funcao:(60+M82*M98)+M51/5
+{B54/04} Lim Sup:100
+{B54/05} Lim Inf:0
+{B54/06} Habilita Lim Sup:False
+{B54/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:55>>>=====
+{B55/01} Tag:Produto
+{B55/02} Desc:
+{B55/03} Funcao:30-(M23/5)+M87/3
+{B55/04} Lim Sup:0
+{B55/05} Lim Inf:0
+{B55/06} Habilita Lim Sup:False
+{B55/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:56>>>=====
+{B56/01} Tag:TT2402%
+{B56/02} Desc:Temperatura Condensado
+{B56/03} Funcao:M33+M21-20
+{B56/04} Lim Sup:2
+{B56/05} Lim Inf:-7
+{B56/06} Habilita Lim Sup:False
+{B56/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:57>>>=====
+{B57/01} Tag:LY2401a
+{B57/02} Desc:Soma FF+FB
+{B57/03} Funcao:M11*(M16*10-500+M37)+M01
+{B57/04} Lim Sup:105
+{B57/05} Lim Inf:-5
+{B57/06} Habilita Lim Sup:False
+{B57/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:58>>>=====
+{B58/01} Tag:PT2404
+{B58/02} Desc:
+{B58/03} Funcao:M28+(M25+20)
+{B58/04} Lim Sup:105
+{B58/05} Lim Inf:-5
+{B58/06} Habilita Lim Sup:False
+{B58/07} Habilita Lim Inf:False
+<Registers>
+False
+False
+False
+True
+False
+False
+False
+False
+True
+True
+=====<<<REGISTRADOR:204>>>=====
+{R/01} Tag:TYR2410
+{R/02} Desc:Efeito de TT2410
+{R/03} Ind Lista Var1:55
+{R/04} Desc Var1:TT2401
+{R/05} Ind Lista Var2:13
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:82
+{R/08} Desc Var3:TT2410
+{R/09} Ind Lista Base Tempo:1
+=====<<<REGISTRADOR:209>>>=====
+{R/01} Tag:FYR2302
+{R/02} Desc:Efeito de FT2302
+{R/03} Ind Lista Var1:42
+{R/04} Desc Var1:LT2401
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:28
+{R/08} Desc Var3:FT2302
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:210>>>=====
+{R/01} Tag:TYR2415
+{R/02} Desc:Efeito de TT2415
+{R/03} Ind Lista Var1:55
+{R/04} Desc Var1:TT2402
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:85
+{R/08} Desc Var3:TT2415
+{R/09} Ind Lista Base Tempo:2
+<Textos Animados>
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+False
+True
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:
+{T/02} Funcao:M83
+{T/03} Casas Decimais:0
+{T/04} Unidade:oC
+{T/05} Faixa Max:250
+{T/06} Faixa Min:140
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:Vazão Óleo
+{T/02} Funcao:M22
+{T/03} Casas Decimais:2
+{T/04} Unidade:L/min
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:21
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Temp. Cond.
+{T/02} Funcao:M56
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max:180
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:55
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Temp. Alimentação
+{T/02} Funcao:M24*6.7
+{T/03} Casas Decimais:0
+{T/04} Unidade:oC
+{T/05} Faixa Max:25
+{T/06} Faixa Min:15
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:Vazão GN
+{T/02} Funcao:M81
+{T/03} Casas Decimais:0
+{T/04} Unidade:L/min
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:80
+=====<<<TEXTO ANIMADO:106>>>=====
+{T/01} Desc:Vazão Saída VS23
+{T/02} Funcao:M29
+{T/03} Casas Decimais:0
+{T/04} Unidade:L/min
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:28
+=====<<<TEXTO ANIMADO:107>>>=====
+{T/01} Desc:Veloc. BO2407
+{T/02} Funcao:M01
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:56
+=====<<<TEXTO ANIMADO:108>>>=====
+{T/01} Desc:Nível
+{T/02} Funcao:M43
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:42
+=====<<<TEXTO ANIMADO:109>>>=====
+{T/01} Desc:Nível VS23
+{T/02} Funcao:M30
+{T/03} Casas Decimais:2
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:110>>>=====
+{T/01} Desc:Abert. FCV2302
+{T/02} Funcao:M06
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:5
+=====<<<TEXTO ANIMADO:111>>>=====
+{T/01} Desc:
+{T/02} Funcao:M26
+{T/03} Casas Decimais:0
+{T/04} Unidade:L/min
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:25
+=====<<<TEXTO ANIMADO:112>>>=====
+{T/01} Desc:
+{T/02} Funcao:M03
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:113>>>=====
+{T/01} Desc:Pressão Topo
+{T/02} Funcao:M58
+{T/03} Casas Decimais:3
+{T/04} Unidade:Bar
+{T/05} Faixa Max:10
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:114>>>=====
+{T/01} Desc:Vazão Refluxo
+{T/02} Funcao:M23/5+M87/5
+{T/03} Casas Decimais:2
+{T/04} Unidade:L/min
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:115>>>=====
+{T/01} Desc:Vazão Produto B
+{T/02} Funcao:M55
+{T/03} Casas Decimais:2
+{T/04} Unidade:L/min
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:116>>>=====
+{T/01} Desc:Abert. PCV2404
+{T/02} Funcao:M04
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:117>>>=====
+{T/01} Desc:SP
+{T/02} Funcao:M53
+{T/03} Casas Decimais:0
+{T/04} Unidade:L/min
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:118>>>=====
+{T/01} Desc:
+{T/02} Funcao:2*M15-100+M39+M38
+{T/03} Casas Decimais:0
+{T/04} Unidade:
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:120>>>=====
+{T/01} Desc:
+{T/02} Funcao:M16*10-500+M37
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<COORDENADAS>>>=====
+LIC2401
+367
+423
+True
+TIC2402
+295
+423
+True
+FIC2403
+321
+870
+True
+PIC2404
+18
+253
+True
+LIC2301
+187
+17
+True
+FIC2302
+394
+31
+True
+TT2415a
+1057
+331
+False
+FT2403
+670
+469
+False
+FT2412b
+630
+135
+False
+TT2415b
+976
+332
+False
+PI2404c
+155
+60
+False
+FT2407
+520
+599
+False
+LT2401
+425
+472
+False
+PT2404
+270
+110
+False
+FT2302
+25
+427
+False
+LT2301
+19
+162
+False
+LT2401DT1
+204
+488
+False
+TT2410%
+1058
+267
+False
+TT2402
+1139
+289
+False
+Erro_pond
+1128
+488
+False
+FY2302
+273
+587
+True
+TY2415
+236
+627
+True
+TY2410
+748
+611
+True
+TYR2410
+748
+589
+True
+FYR2302
+273
+564
+True
+TYR2415
+236
+649
+True
+TT2402c
+979
+291
+False
+TT2402b
+1059
+290
+False
+LT2401b
+505
+442
+False
+Erro_Nivel
+1122
+446
+False
+LT2401_BM
+423
+440
+False
+PI2404a
+265
+88
+False
+LT2301_BM
+14
+129
+False
+Erro_Pond
+1039
+493
+False
+Erro_Temp
+1036
+449
+False
+TY2402a
+620
+406
+False
+FT2412a
+631
+109
+False
+Produto
+629
+161
+False
+TT2402%
+1181
+337
+False
+LY2401a
+393
+562
+False
+PT2404
+269
+136
+False
+388
+923
+True
+387
+831
+True
+346
+335
+True
+543
+137
+True
+120
+22
+True
+468
+154
+True
+517
+478
+True
+403
+332
+True
+235
+271
+True
+327
+163
+True
+547
+920
+True
+436
+740
+True
+91
+479
+True
+201
+631
+True
+297
+745
+True
+86
+281
+True
+332
+662
+True
+556
+623
+True
+575
+362
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 7
+{P/02} FT2308
+{P/03} 42
+{P/04} 64
+{P/05} M88+M89+M90
+{P/06} 4
+{P/07} FCV2412
+{P/08} -20
+{P/09} 20
+{P/10} -10.46
+{P/11} 7
+{P/12} TT2410
+{P/13} 0
+{P/14} 0.8
+{P/15} (20+M84+M85)*M97+(1-M97)*50-10*M99
+{P/16} 3
+{P/17} 68
+{P/18} 0
+{P/19} 30
+{P/20} 15.20
+{P/21} 4
+{P/22} TT2410
+{P/23} 0
+{P/24} 30
+{P/25} 17.46
+{P/26} 6
+{P/27} 7.5
+{P/28} 7.5
+{P/29} 1
+{P/30} 5.31
+{P/31} 2
+{P/32} Ruído
+{P/33} -0.5
+{P/34} 0.5
+{P/35} 0.08
+{P/36} 5
+{P/37} 120
+{P/38} -8
+{P/39} 8
+{P/40} -6.03
+{P/41} 3
+{P/42} 8
+{P/43} -15
+{P/44} 15
+{P/45} -5.92
+{P/46} 4
+{P/47} Descrição
+{P/48} 34
+{P/49} 65
+{P/50} 45.83
+{P/51} 0
+{P/52} Setpoint de TIC2402
+{P/53} /
+{P/54} /
+{P/55} 40
+{P/56} 0
+{P/57} Setpoint de LIC2301
+{P/58} /
+{P/59} /
+{P/60} 50
+{P/61} 0
+{P/62} Setpoint de LIC2401
+{P/63} /
+{P/64} /
+{P/65} 50
+{P/66} 0
+{P/67} Setpoint de PIC2404
+{P/68} /
+{P/69} /
+{P/70} 55
+{P/71} 0
+{P/72} Nível Incrustração Trocador (%)
+{P/73} /
+{P/74} /
+{P/75} 5
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+123
+145
+TRUE
+1
+29
+68
+20
+clAqua
+clLime
+412
+423
+TRUE
+1
+26
+30
+38
+clOlive
+clLime
+160
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+232
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+304
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+585
+370
+TRUE
+0
+1
+509
+634
+TRUE
+3
+0
+57
+991
+TRUE
+Isolado
+Compartilhado
+Utilidades
+1
+TRUE
+Desligado
+Ligado
+Sist Especialis
+1
+TRUE
+Não inserido
+Inserido
+Filtro de Óleo
+0
+=====<<<LINEARIZADOR>>>=====)
+
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>

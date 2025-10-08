@@ -1,0 +1,1994 @@
+TPF_Caldeira.bmp
+[Controlador 1]-------------------------
+FIC105
+PID Vazão de Água
+1
+20
+0
+50
+0
+500
+L/h
+22 Vazão de Água (%)
+02 LIC101 PID Nível Tubulão
+1
+50
+TRUE
+FALSE
+1
+1
+1
+-6.59
+0.09
+61.88
+0
+-1
+61.97
+43.50
+[Controlador 2]-------------------------
+LIC101
+PID Nível Tubulão
+1.3
+0.15
+0
+50
+0
+100
+%
+51 LT101 Borbulhamento no nível
+92Setpoint de LIC101
+1
+50
+FALSE
+FALSE
+1
+1
+1
+-13.16
+19.31
+30.69
+-1
+-1
+50.00
+61.94
+[Controlador 3]-------------------------
+PIC106
+Pressão Àgua
+1
+10
+0
+50
+0
+200
+Bar
+25 Pressão Água
+99Setpoint de PIC106
+1
+50
+TRUE
+FALSE
+1
+1
+1
+4.40
+-0.65
+80.65
+0
+-1
+80.00
+53.75
+[Controlador 4]-------------------------
+FIC102
+PID Vazão Gás
+0.5
+10
+0
+50
+0
+1000
+Nm3/h
+27 Vazão de GAF (%)
+44 FY102A Comparador Maior Que
+1
+50
+TRUE
+FALSE
+1
+1
+1
+18.03
+-1.84
+68.80
+0
+-1
+66.96
+67.11
+[Controlador 5]-------------------------
+FIC103
+Vazão de Ar
+0.5
+10
+0
+50
+0
+10000
+Nm3/h
+28 Vazão de Ar (%)
+43 FY103B Relação Ar/Gas
+1
+50
+TRUE
+FALSE
+1
+1
+0
+28.11
+-2.45
+78.32
+0
+-1
+75.87
+76.89
+[Controlador 6]-------------------------
+PIC107
+PID Pressão Tubulão
+0.1
+0.6
+0
+50
+0
+125
+Bar
+29 Pressão Tubulão (%)
+98Setpoint de PIC107
+1
+50
+TRUE
+FALSE
+1
+1
+1
+16.18
+7.54
+52.46
+0
+-1
+60.00
+66.93
+[Controlador 7]-------------------------
+TIC111
+Temp Vapor
+2
+0.2
+0
+50
+0
+1200
+oC
+55 TT111 Temp Turbina
+97Setpoint de TIC111
+1
+50
+TRUE
+FALSE
+0
+1
+1
+46.27
+-24.71
+35.29
+0
+-1
+60.00
+46.85
+[Controlador 8]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 9]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 10]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 11]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 12]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 13]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 14]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 15]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 16]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 17]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 18]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 19]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Controlador 20]-------------------------
+
+
+1
+10
+0
+50
+0
+100
+UnidEng
+        
+         
+1
+50
+FALSE
+FALSE
+1
+1
+0
+-50.00
+0.00
+0.00
+-1
+0
+0.00
+0.00
+[Processo 21----------------]
+Distúrbio de Carga
+82
+1
+0
+PT106
+X-Y
+0
+0
+1
+Inversor Frequência
+2
+0
+Modelo PVC
+1
+0
+0
+70.00
+0.00
+5.29
+5.29
+5.29
+70.00
+0.00
+5.14
+5.14
+[Processo 22----------------]
+Vazão de Água (%)
+56 FT105A 
+3
+1
+FT105B
+X-Y+M97/75
+0
+0.7
+0.94
+Linear
+0.5
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+64.07
+64.07
+64.07
+0.00
+0.00
+63.69
+65.38
+[Processo 23----------------]
+Nível do Tubulão
+42 LT101_BM Balança de Massa
+2
+0
+LT101
+0.004*X
+0
+1
+0.01
+Linear
+0
+3
+Integrador
+1
+0
+0
+26.14
+0.00
+4.38
+4.38
+2.35
+26.14
+0.00
+0.00
+0.00
+[Processo 24----------------]
+Fase Não-Mínima
+22 Vazão de Água (%)
+3
+2
+LT101_FN
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+40
+4
+94.00
+0.00
+61.46
+61.46
+61.46
+94.00
+0.00
+66.03
+68.32
+[Processo 25----------------]
+Pressão Água
+49 PT106A 
+1
+1
+PT106B
+X-Y+M21-7.5+M90/2
+1.2
+0
+1.13
+Inversor Frequência
+5
+1
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+72.73
+72.73
+74.13
+0.00
+0.00
+74.33
+71.65
+[Processo 26----------------]
+Distúrbio na vazão de ar
+88Distúrbio
+3
+3
+FT103A
+X-Y
+0
+0
+2
+Linear
+0
+0
+Filtro LEAD-LAG
+1
+50
+1
+0.73
+0.00
+0.49
+0.49
+0.49
+0.73
+0.00
+0.00
+0.00
+[Processo 27----------------]
+Vazão de GAF (%)
+04  
+2
+1.5
+FT102%
+X-Y+M90/2
+0.4
+1
+1
+Linear
+2.5
+1
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+68.20
+68.20
+68.23
+0.00
+0.00
+68.50
+68.78
+[Processo 28----------------]
+Vazão de Ar (%)
+05  
+1
+1.3
+FT103%
+X-Y+M26+M90-1
+0.9
+0.9
+1
+Linear
+1.1
+0.5
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+78.68
+78.68
+78.68
+0.00
+0.00
+78.68
+78.65
+[Processo 29----------------]
+Pressão Tubulão (%)
+46 PT107C Contribuições para a Pressão
+3
+2
+PT107%
+X-Y
+0
+12
+1.2
+Abertura Rápida
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+45.78
+45.78
+45.78
+0.00
+0.00
+45.04
+43.94
+[Processo 30----------------]
+Temp. Câmara (%)
+60 TT108C Calor Gerado
+80
+45
+TT108D
+X-Y+M81
+0
+8
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+61.83
+61.83
+61.83
+0.00
+0.00
+51.48
+54.39
+[Processo 31----------------]
+Analisador de O2
+53 Oxigenio 
+3
+2
+AT144B
+X-Y
+0
+5
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+1.39
+1.39
+1.39
+0.00
+0.00
+1.44
+1.54
+[Processo 32----------------]
+Atraso efeito de TT129
+84TT129
+2
+0
+PT107D
+X-Y
+0
+5
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+54.39
+54.39
+54.39
+0.00
+0.00
+53.11
+53.11
+[Processo 33----------------]
+Temp
+07 TIC111 Temp Vapor
+8
+7
+TT111B
+X-Y
+0
+5
+0.35
+Igual Porcentagem
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+34.87
+34.87
+34.87
+0.00
+0.00
+42.12
+50.15
+[Processo 34----------------]
+Aux
+54 TT110B Temperatura do Vapor
+7
+9
+TT111A
+X-Y
+0
+8
+2
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+39.93
+39.93
+39.93
+0.00
+0.00
+32.56
+26.72
+[Processo 35----------------]
+
+(Nenhuma) =0
+3
+3
+
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+50.00
+0.00
+0.00
+0.00
+0.00
+50.00
+0.00
+0.00
+0.00
+[Processo 36----------------]
+Atraso de TT108 p TT110
+30 Temp. Câmara (%)
+0
+0
+TT110A
+X-Y
+0
+12
+1
+Linear
+0
+0
+Filtro LEAD-LAG
+1
+0
+0
+55.80
+0.00
+55.80
+55.80
+55.80
+55.80
+0.00
+0.00
+0.00
+[Processo 37----------------]
+
+
+3
+3
+
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+[Processo 38----------------]
+
+
+3
+3
+
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+[Processo 39----------------]
+
+
+3
+3
+
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+[Processo 40----------------]
+
+
+3
+3
+
+X-Y
+0
+0
+1
+Linear
+0
+0
+Modelo PVC
+1
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+[Registrador]-----------------
+LIC101
+Nível Tubulão
+51 LT101 Borbulhamento no nível
+PV
+62 02 SP
+SP
+02 LIC101 PID Nível Tubulão
+MV
+1
+[Registrador]-----------------
+FIC105
+Vazão de Água
+22 Vazão de Água (%)
+PV
+61 01 SP
+SP
+01 FIC105 PID Vazão de Água
+MV
+0
+[Registrador]-----------------
+PIC106
+Pressão Água
+25 Pressão Água
+PV
+63 03 SP
+SP
+03 PIC106 Pressão Àgua
+MV
+0
+[Registrador]-----------------
+FIC103
+Vazão de Ar
+28 Vazão de Ar (%)
+PV - Vazão de Ar
+65 05 SP
+SP
+05 FIC103 Vazão de Ar
+MV
+0
+[Registrador]-----------------
+FIC102
+Vazão de Gás
+27 Vazão de GAF (%)
+PV - Vazão de Gás
+64 04 SP
+SP
+04 FIC102 PID Vazão GAF
+MV
+0
+[Registrador]-----------------
+REG107
+Pressão Tubulão
+29 Pressão Tubulão (%)
+PV
+66 06 SP
+SP
+06 PIC107 PID Pressão Tubulão
+MV
+1
+[Registrador]-----------------
+TIC111
+Temperatura Vapor
+55 TT111 Temp Turbina
+PV
+67 07 SP
+SP
+07 TIC111 Temp Vapor
+MV
+1
+[Registrador]-----------------
+Distúrbios
+
+84TT129
+Temp. Água
+87FT104
+Vazão de Vapor
+89AT115
+PCI Gás
+1
+[Registrador]-----------------
+Camara
+
+30 Temp. Câmara (%)
+Temperatura
+60 TT108C Calor Gerado
+Calor Gerado
+
+
+0
+[Registrador]-----------------
+
+
+
+
+
+
+
+
+0
+[Bloco 41----------------]
+PT107A
+Acoplamento TT129_PT107
+(M32-40)*5
+105
+-5
+FALSE
+FALSE
+[Bloco 42----------------]
+LT101_BM
+Balança de Massa
+(M22-M57)+(2*(1-M93)+2)*(M24-M22)
+105
+-5
+FALSE
+FALSE
+[Bloco 43----------------]
+FY103B
+Relação Ar/Gas
+M45*M91*(1+M92/100)
+105
+-5
+FALSE
+FALSE
+[Bloco 44----------------]
+FY102A
+Comparador Menor Que
+M06<M47
+105
+-5
+FALSE
+FALSE
+[Bloco 45----------------]
+FY103A
+Comparador Maior Que
+M06>M27
+105
+-5
+FALSE
+FALSE
+[Bloco 46----------------]
+PT107C
+Contribuições para a Pressão
+M30*0.9+M41*0.015+M52*0.075
+105
+-5
+FALSE
+FALSE
+[Bloco 47----------------]
+FY103C
+Relação Gas/Ar
+M28/M91/(1+M92/100)
+105
+-5
+FALSE
+FALSE
+[Bloco 48----------------]
+TT108A
+Calor_Gerado_auxA
+M28/(M58*M27)
+1
+0
+TRUE
+TRUE
+[Bloco 49----------------]
+PT106A
+Considera influencia da vazão
+0.5*M03+0.015*M03*(100-M01)
+100
+0
+FALSE
+TRUE
+[Bloco 50----------------]
+AT115
+PCI_GAS
+60*(M96+1)+455
+105
+-5
+FALSE
+FALSE
+[Bloco 51----------------]
+LT101
+Borbulhamento no nível
+M23*0.8+M29*0.2+M83+M90
+1.22
+1.08
+FALSE
+FALSE
+[Bloco 52----------------]
+PT107B
+Acop. Nivel-Pressão
+(M23-40)*5
+1.2
+0.8
+FALSE
+FALSE
+[Bloco 53----------------]
+AT144A
+Percentual de Oxigenio
+21*(M28-M58*M27)/(M27+M28)
+21
+0
+FALSE
+TRUE
+[Bloco 54----------------]
+TT110B
+Temperatura do Vapor
+M36*M87/100
+100
+30
+TRUE
+TRUE
+[Bloco 55----------------]
+TT111
+Temp Turbina
+M34-M33
+105
+-5
+FALSE
+FALSE
+[Bloco 56----------------]
+FT105A
+Considera influencia da pressão
+0.3*M01+0.015*M01*(M25)
+100
+0
+TRUE
+TRUE
+[Bloco 57----------------]
+FT104B
+Demanda de Vapor
+M87/(1+M94)
+100
+20
+TRUE
+TRUE
+[Bloco 58----------------]
+SP Relação Ar/Gás
+Relação Desejada
+(M89*0.002+0.9)
+1.1
+0.9
+TRUE
+TRUE
+[Bloco 59----------------]
+TT108B
+Calor Gerado auxB
+(1-(M28-M27*M58)/M28)
+1
+0
+TRUE
+TRUE
+[Bloco 60----------------]
+TT108C
+Calor Gerado
+M27*M48*M59
+105
+30
+FALSE
+TRUE
+Texto --------------------
+FT104
+M57
+0
+Nm3/h
+15000
+0
+15000
+0
+Texto --------------------
+FT105
+M22
+2
+L/h
+500
+0
+500
+0
+Texto --------------------
+
+M51
+2
+%
+100
+0
+55
+45
+Texto --------------------
+PT101
+M25
+2
+
+200
+0
+125
+115
+Texto --------------------
+FT102
+M27
+2
+Nm3/h
+1000
+0
+1000
+0
+Texto --------------------
+FT103
+M28
+2
+Nm3/h
+10000
+0
+10000
+0
+Texto --------------------
+PT107
+M29
+2
+Bar
+125
+0
+125
+0
+Texto --------------------
+TT108
+M30
+1
+oC
+1550
+0
+1550
+0
+Texto --------------------
+AT144
+M31
+2
+%
+100
+0
+2
+0.5
+Texto --------------------
+TT110
+M54
+1
+oC
+1150
+0
+1150
+0
+Texto --------------------
+TT111
+M55
+1
+oC
+1200
+0
+1200
+0
+Texto --------------------
+AT115
+M89
+0
+Kcal/Nm3
+515
+455
+515
+455
+Texto --------------------
+TT129
+M84+(M93*10)
+0
+oC
+300
+0
+300
+0
+Texto --------------------
+
+
+0
+
+100
+0
+100
+0
+Texto --------------------
+
+
+0
+
+100
+0
+100
+0
+Texto --------------------
+Demanda Reduzida
+M94
+0
+Normal/Reduzida
+100
+0
+0.5
+0
+Texto --------------------
+Regenerador
+M93
+0
+Desl/Ligado
+100
+0
+1
+0.5
+Texto --------------------
+AY115
+M28/M27
+3
+
+100
+0
+2
+1.02
+Texto --------------------
+
+
+2
+
+100
+0
+100
+0
+Texto --------------------
+
+
+2
+
+100
+0
+100
+0
+FIC105
+193
+638
+TRUE
+LIC101
+183
+279
+TRUE
+PIC106
+229
+974
+TRUE
+FIC102
+341
+70
+TRUE
+FIC103
+340
+187
+TRUE
+PIC107
+58
+58
+TRUE
+TIC111
+596
+647
+TRUE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+
+3
+130
+FALSE
+PT106
+1048
+173
+FALSE
+FT105B
+673
+285
+FALSE
+LT101
+329
+164
+FALSE
+LT101_FN
+332
+188
+FALSE
+PT106B
+965
+174
+FALSE
+FT103A
+155
+547
+FALSE
+FT102%
+21
+586
+FALSE
+FT103%
+156
+583
+FALSE
+PT107%
+201
+85
+FALSE
+TT108D
+420
+482
+FALSE
+AT144B
+543
+422
+FALSE
+PT107D
+318
+11
+FALSE
+TT111B
+700
+469
+FALSE
+TT111A
+620
+468
+FALSE
+
+1130
+130
+FALSE
+TT110A
+874
+377
+FALSE
+
+130
+25
+FALSE
+
+130
+25
+FALSE
+
+130
+25
+FALSE
+
+130
+25
+FALSE
+LIC101
+279
+160
+TRUE
+FIC105
+639
+218
+TRUE
+PIC106
+975
+257
+TRUE
+FIC103
+173
+653
+TRUE
+FIC102
+20
+654
+TRUE
+REG107
+57
+87
+TRUE
+TIC111
+646
+622
+TRUE
+Distúrbios
+1182
+74
+TRUE
+Camara
+329
+430
+TRUE
+
+210
+3
+FALSE
+PT107A
+202
+35
+FALSE
+LT101_BM
+331
+211
+FALSE
+FY103B
+248
+237
+FALSE
+FY102A
+14
+143
+FALSE
+FY103A
+249
+140
+FALSE
+PT107C
+203
+10
+FALSE
+FY103C
+280
+503
+FALSE
+TT108A
+420
+412
+FALSE
+PT106A
+965
+147
+FALSE
+AT115
+378
+618
+FALSE
+LT101
+328
+137
+FALSE
+PT107B
+201
+60
+FALSE
+AT144A
+543
+398
+FALSE
+TT110B
+875
+404
+FALSE
+TT111
+651
+494
+FALSE
+FT105A
+673
+262
+FALSE
+FT104B
+713
+118
+FALSE
+SP Relação Ar/Gás
+422
+385
+FALSE
+TT108B
+418
+434
+FALSE
+TT108C
+419
+457
+FALSE
+147
+721
+TRUE
+344
+538
+TRUE
+295
+309
+TRUE
+197
+832
+TRUE
+637
+34
+TRUE
+638
+194
+TRUE
+35
+271
+TRUE
+385
+352
+TRUE
+483
+558
+TRUE
+352
+831
+TRUE
+566
+823
+TRUE
+597
+368
+TRUE
+376
+987
+TRUE
+49
+884
+FALSE
+35
+896
+FALSE
+18
+783
+TRUE
+17
+677
+TRUE
+565
+552
+TRUE
+76
+904
+FALSE
+95
+905
+FALSE
+[Registrador X-Y]-----------------
+
+0
+100
+
+0
+100
+
+0
+100
+
+0
+100
+
+0
+100
+
+0
+100
+25
+291
+FALSE
+4
+Temp. Forn
+-2
+2
+-1.40
+2
+Dist PT106
+0
+15
+5.29
+5
+4
+-1
+1
+0.56
+7
+TT129
+Min.
+Máx.
+M85+M86
+6
+TT129aux
+50
+0.4
+51.27
+5
+300
+-10
+10
+4.89
+3
+50
+55
+95
+71.20
+3
+50
+0
+1
+0.49
+3
+50
+0
+100
+33.93
+2
+Ruído
+-1
+1
+0.48
+0
+Relação Ar/Gás (Norm)
+Min.
+Máx.
+1
+0
+Excesso de Ar (%)
+Min.
+Máx.
+10
+1
+Regenarador (1->ligado)
+Min.
+Máx.
+1
+1
+Demanda Reduzida
+Min.
+Máx.
+0
+0
+Descrição
+Min.
+Máx.
+Valor
+0
+Descrição
+Min.
+Máx.
+100
+0
+Setpoint de TIC111
+Min.
+Máx.
+60
+0
+Setpoint de PIC107
+Min.
+Máx.
+60
+0
+Setpoint de PIC106
+Min.
+Máx.
+80
+Imagens
+259
+355
+TRUE
+1
+50
+44
+24
+clAqua
+clLime
+308
+1030
+TRUE
+0
+92
+65
+78
+clRed
+clNavy
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+112
+624
+FALSE
+-1
+-1
+56
+624
+FALSE
+-1
+-1

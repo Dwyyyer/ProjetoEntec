@@ -1,0 +1,727 @@
+Espessura de Camada com Preditor de Smith
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:mm;8;26;8;26;
+M16:mm;-8;8;-8;8;
+M17:;0;10;0;10;
+M18:%;0.00;100.00;0.00;100.00;
+M19:%;0.00;100.00;0.00;100.00;
+M20:%;0.00;100.00;0.00;100.00;
+M21:%;0.00;100.00;0.00;100.00;
+M22:mm;8;26;8;26;
+M23:%;0.00;100.00;0.00;100.00;
+M24:%;0.00;100.00;0.00;100.00;
+M25:%;0.00;100.00;0.00;100.00;
+M26:%;0.00;100.00;0.00;100.00;
+M27:%;0.00;100.00;0.00;100.00;
+M28:%;0.00;100.00;0.00;100.00;
+M29:%;0.00;100.00;0.00;100.00;
+M30:%;0.00;100.00;0.00;100.00;
+M31:%;0.00;100.00;0.00;100.00;
+M32:%;0.00;100.00;0.00;100.00;
+M33:%;0.00;100.00;0.00;100.00;
+M34:%;0.00;100.00;0.00;100.00;
+M35:%;0.00;100.00;0.00;100.00;
+M36:%;0.00;100.00;0.00;100.00;
+M37:%;0.00;100.00;0.00;100.00;
+M38:%;0.00;100.00;0.00;100.00;
+M39:%;0.00;100.00;0.00;100.00;
+M40:%;0.00;100.00;0.00;100.00;
+M41:mm;8;26;8;26;
+M42:mm;8;26;8;26;
+M43:mm;8;26;8;26;
+M44:%;0.00;100.00;0.00;100.00;
+M45:%;0.00;100.00;0.00;100.00;
+M46:%;0.00;100.00;0.00;100.00;
+M47:%;0.00;100.00;0.00;100.00;
+M48:%;0.00;100.00;0.00;100.00;
+M49:%;0.00;100.00;0.00;100.00;
+M50:%;0.00;100.00;0.00;100.00;
+M51:%;0.00;100.00;0.00;100.00;
+M52:%;0.00;100.00;0.00;100.00;
+M53:%;0.00;100.00;0.00;100.00;
+M54:%;0.00;100.00;0.00;100.00;
+M55:%;0.00;100.00;0.00;100.00;
+M56:%;0.00;100.00;0.00;100.00;
+M57:%;0.00;100.00;0.00;100.00;
+M58:%;0.00;100.00;0.00;100.00;
+M59:%;0.00;100.00;0.00;100.00;
+M60:%;0.00;100.00;0.00;100.00;
+M61:%;0.00;100.00;0.00;100.00;
+M62:%;0.00;100.00;0.00;100.00;
+M63:%;0.00;100.00;0.00;100.00;
+M64:%;0.00;100.00;0.00;100.00;
+M65:%;0.00;100.00;0.00;100.00;
+M66:%;0.00;100.00;0.00;100.00;
+M67:%;0.00;100.00;0.00;100.00;
+M68:%;0.00;100.00;0.00;100.00;
+M69:%;0.00;100.00;0.00;100.00;
+M70:%;0.00;100.00;0.00;100.00;
+M71:%;0.00;100.00;0.00;100.00;
+M72:%;0.00;100.00;0.00;100.00;
+M73:%;0.00;100.00;0.00;100.00;
+M74:%;0.00;100.00;0.00;100.00;
+M75:%;0.00;100.00;0.00;100.00;
+M76:%;0.00;100.00;0.00;100.00;
+M77:%;0.00;100.00;0.00;100.00;
+M78:%;0.00;100.00;0.00;100.00;
+M79:%;0.00;100.00;0.00;100.00;
+M80:%;0.00;100.00;0.00;100.00;
+M81:%;0.00;100.00;0.00;100.00;
+M82:%;0.00;100.00;0.00;100.00;
+M83:%;0.00;100.00;0.00;100.00;
+M84:%;0.00;100.00;0.00;100.00;
+M85:%;0.00;100.00;0.00;100.00;
+M86:%;0.00;100.00;0.00;100.00;
+M87:%;0.00;100.00;0.00;100.00;
+M88:%;0.00;100.00;0.00;100.00;
+M89:%;0.00;100.00;0.00;100.00;
+M90:%;0.00;100.00;0.00;100.00;
+M91:%;0.00;100.00;0.00;100.00;
+M92:%;0.00;100.00;0.00;100.00;
+M93:%;0.00;100.00;0.00;100.00;
+M94:%;0.00;100.00;0.00;100.00;
+M95:%;0.00;100.00;0.00;100.00;
+M96:%;0.00;100.00;0.00;100.00;
+<<Tracks>>
+TRUE
+SP Espessura(mm)
+246
+26
+ 6.11100000000000E+0001
+TRUE
+TRUE
+Desvio (mm)
+250
+509
+ 5.00000000000000E+0001
+TRUE
+FALSE
+
+326
+298
+ 0.00000000000000E+0000
+FALSE
+FALSE
+
+298
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+362
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+426
+788
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:ZIC
+{C01/02} Desc: SP ZIC
+{C01/03} Kc:1
+{C01/04} Ti:3
+{C01/05} Td:0
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax:8
+{C01/12} Escala PVmin:26
+{C01/13} BackMV CK:False
+{C01/14} Indice lista PV:42
+{C01/15} Indice lista SPR:14
+{C01/16} Endereço  BackMV:0
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:True
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:-48.30
+{C01/24} Erroant:98.30
+{C01/25} PVant:0.00
+{C01/26} Habilita Modo Remoto:False
+{C01/27} Habilita Modo Auto:True
+{C01/28} 61.11
+{C01/29} 100.00
+<Process>
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:G
+{P21/02} Desc:Dinâmica do Processo
+{P21/03} Indice lista PV:0
+{P21/04} Tal 1:3
+{P21/05} Tal 2:0
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:0
+{P21/08} Tempo Morto:12
+{P21/09} Ganho:1.15
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:0
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:52.79
+{P21/19} Y2:1.42
+{P21/20} Y0old:0.00
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:52.70
+{P21/24} IntAc1:1.23
+{P21/25} IntAc2:1.23
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:Gtil
+{P22/02} Desc:Retorno PS
+{P22/03} Indice lista PV:43
+{P22/04} Tal 1:3
+{P22/05} Tal 2:0
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:0
+{P22/08} Tempo Morto:0
+{P22/09} Ganho:1.15
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:0
+{P22/14} Tipo FT:0
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:52.77
+{P22/19} Y2:58.50
+{P22/20} Y0old:52.77
+{P22/21} Y1old:0.00
+{P22/22} Y1old2:0.00
+{P22/23} x5old:52.70
+{P22/24} IntAc1:50.87
+{P22/25} IntAc2:50.87
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:Delay
+{P23/02} Desc:
+{P23/03} Indice lista PV:21
+{P23/04} Tal 1:0
+{P23/05} Tal 2:0
+{P23/06} Habilita Desat Sat:False
+{P23/07} Histerese:0
+{P23/08} Tempo Morto:12
+{P23/09} Ganho:1
+{P23/10} Tipo Valv:-1
+{P23/11} Agarramento:0
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:0
+{P23/14} Tipo FT:0
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:58.50
+{P23/19} Y2:97.11
+{P23/20} Y0old:97.11
+{P23/21} Y1old:0.00
+{P23/22} Y1old2:0.00
+{P23/23} x5old:58.10
+{P23/24} IntAc1:97.11
+{P23/25} IntAc2:97.11
+=====<<<PROCESSO:24>>>=====
+{P24/01} Tag:D
+{P24/02} Desc:Dinâmica do Distúrbio
+{P24/03} Indice lista PV:15
+{P24/04} Tal 1:0
+{P24/05} Tal 2:0
+{P24/06} Habilita Desat Sat:False
+{P24/07} Histerese:0
+{P24/08} Tempo Morto:0
+{P24/09} Ganho:1
+{P24/10} Tipo Valv:0
+{P24/11} Agarramento:0
+{P24/12} RateLimiter:0
+{P24/13} Const. Tempo Atuador:0
+{P24/14} Tipo FT:0
+{P24/15} Num.Ciclos:1x10
+{P24/16} Lead:0
+{P24/17} Lag:0
+{P24/18} X0:50.00
+{P24/19} Y2:50.00
+{P24/20} Y0old:50.00
+{P24/21} Y1old:0.00
+{P24/22} Y1old2:0.00
+{P24/23} x5old:50.00
+{P24/24} IntAc1:50.00
+{P24/25} IntAc2:50.00
+<Blocs>
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:PV_medida
+{B41/02} Desc:Medida Final da Espessura
+{B41/03} Funcao:M21+M24-50
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:-5
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:DesvioPS
+{B42/02} Desc:Erro Predição
+{B42/03} Funcao:M41-M23
+{B42/04} Lim Sup:105
+{B42/05} Lim Inf:-5
+{B42/06} Habilita Lim Sup:False
+{B42/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:43>>>=====
+{B43/01} Tag:PV_Realim
+{B43/02} Desc:
+{B43/03} Funcao:M22+M42
+{B43/04} Lim Sup:105
+{B43/05} Lim Inf:-5
+{B43/06} Habilita Lim Sup:False
+{B43/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:44>>>=====
+{B44/01} Tag:Sel
+{B44/02} Desc:
+{B44/03} Funcao:(M11)*M01
+{B44/04} Lim Sup:105
+{B44/05} Lim Inf:-5
+{B44/06} Habilita Lim Sup:False
+{B44/07} Habilita Lim Inf:False
+<Registers>
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+<Textos Animados>
+True
+True
+True
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:SP
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:mm
+{T/05} Faixa Max:26
+{T/06} Faixa Min:8
+{T/07} Tipo:0
+{T/08} Variavel:14
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:Erro Predição
+{T/02} Funcao:M42+50
+{T/03} Casas Decimais:2
+{T/04} Unidade:mm
+{T/05} Faixa Max:8
+{T/06} Faixa Min:-8
+{T/07} Tipo:2
+{T/08} Variavel:41
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Espessura_PS
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:mm
+{T/05} Faixa Max:26
+{T/06} Faixa Min:8
+{T/07} Tipo:0
+{T/08} Variavel:21
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Espessura
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:mm
+{T/05} Faixa Max:26
+{T/06} Faixa Min:8
+{T/07} Tipo:0
+{T/08} Variavel:40
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:CO
+{T/02} Funcao:
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:106>>>=====
+{T/01} Desc:
+{T/02} Funcao:
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:107>>>=====
+{T/01} Desc:
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:mm
+{T/05} Faixa Max:26
+{T/06} Faixa Min:8
+{T/07} Tipo:0
+{T/08} Variavel:40
+=====<<<TEXTO ANIMADO:108>>>=====
+{T/01} Desc:
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:0
+{T/08} Variavel:-1
+=====<<<COORDENADAS>>>=====
+ZIC
+425
+221
+True
+G
+516
+436
+False
+Gtil
+515
+566
+False
+Delay
+629
+571
+False
+D
+790
+349
+False
+PV_medida
+790
+378
+False
+DesvioPS
+778
+545
+False
+PV_Realim
+187
+476
+False
+Sel
+331
+531
+False
+78
+360
+True
+574
+239
+True
+525
+242
+True
+399
+657
+True
+347
+360
+True
+53
+431
+True
+116
+537
+True
+374
+832
+False
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 0
+{P/02} Descrição
+{P/03} Min.
+{P/04} Máx.
+{P/05} Valor
+{P/06} 0
+{P/07} Descrição
+{P/08} Min.
+{P/09} Máx.
+{P/10} Valor
+{P/11} 0
+{P/12} Descrição
+{P/13} Min.
+{P/14} Máx.
+{P/15} Valor
+{P/16} 0
+{P/17} Descrição
+{P/18} Min.
+{P/19} Máx.
+{P/20} Valor
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} Min.
+{P/34} Máx.
+{P/35} Valor
+{P/36} 0
+{P/37} Descrição
+{P/38} Min.
+{P/39} Máx.
+{P/40} Valor
+{P/41} 0
+{P/42} Descrição
+{P/43} Min.
+{P/44} Máx.
+{P/45} Valor
+{P/46} 0
+{P/47} Descrição
+{P/48} Min.
+{P/49} Máx.
+{P/50} Valor
+{P/51} 0
+{P/52} Descrição
+{P/53} /
+{P/54} /
+{P/55} Valor
+{P/56} 0
+{P/57} Descrição
+{P/58} /
+{P/59} /
+{P/60} Valor
+{P/61} 0
+{P/62} Descrição
+{P/63} /
+{P/64} /
+{P/65} Valor
+{P/66} 0
+{P/67} Descrição
+{P/68} /
+{P/69} /
+{P/70} Valor
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+441
+321
+TRUE
+1
+1
+40
+1000
+FALSE
+0
+0
+120
+24
+FALSE
+False
+False
+False
+0
+FALSE
+False
+False
+False
+0
+FALSE
+False
+False
+False
+0
+=====<<<LINEARIZADOR>>>=====)
+
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+
+Descrição: Um produto deve ser processado em camada 
+com espessura rigorosamente controlada. Para isso sua 
+matéria-prima é dissolvida em um silo e despejada em uma 
+correia onde é prensada formando uma camada úmida e 
+uniforme . Após o processo de secagem a espessura da 
+camada é verificada por um sensor. O desafio de controle 
+está no longo atraso (de transporte) entre a ação da prensa 
+e o a leitura da espessura obtida. Este atraso limite o 
+desempenho do controlador, que opera com um ganho 
+próximo de zero. O elo de predição de tempo morto (Preditor 
+de Smith) é aplicado para reduzir significativamente esta 
+limitação. 
+
+Objetivo: Observar a melhoria de desempenho 
+proporcionada pela adição do elo de predição de tempo 
+morto.
+
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>

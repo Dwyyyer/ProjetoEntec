@@ -1,0 +1,831 @@
+Controle de Razão para Combustão
+screen ratio.bmp
+<<<Unidades Engenharia>>>
+M15:Nm3/h; 0.00; 1000.00; 0.00; 1000.00;
+M16:; 0.00;100;0.00;20;
+M17:%; 0.00; 100.00;0.00; 100.00;
+M18:%; 0.00; 100.00;0.00; 100.00;
+M19:%; 0.00; 100.00;0.00; 100.00;
+M20:%; 0.00; 100.00;0.00; 100.00;
+M21:oC; 0.00; 650.00; 0.00; 650.00;
+M22:Nm3/h; 0.00; 1000.00;0;20;
+M23:Nm3/h; 0.00; 10000.00; 0.00; 10000.00;
+M24:%; 0.00; 100.00;0.00; 100.00;
+M25:%; 0.00; 100.00;0.00; 100.00;
+M26:%; 0.00; 100.00;0.00; 100.00;
+M27:%; 0.00; 100.00;0.00; 100.00;
+M28:%; 0.00; 100.00;0.00; 100.00;
+M29:%; 0.00; 100.00;0.00; 100.00;
+M30:%; 0.00; 100.00;0.00; 100.00;
+M31:%; 0.00; 100.00;0.00; 100.00;
+M32:%; 0.00; 100.00;0.00; 100.00;
+M33:%; 0.00; 100.00;0.00; 100.00;
+M34:%; 0.00; 100.00;0.00; 100.00;
+M35:%; 0.00; 100.00;0.00; 100.00;
+M36:%; 0.00; 100.00;0.00; 100.00;
+M37:%; 0.00; 100.00;0.00; 100.00;
+M38:%; 0.00; 100.00;0.00; 100.00;
+M39:%; 0.00; 100.00;0.00; 100.00;
+M40:%; 0.00; 100.00;0.00; 100.00;
+M41:%; 0.00; 100.00;0.00; 100.00;
+M42:; 0.00; 100.00; 0.00; 20.00;
+M43:Nm3/h; 0.00; 1000.00; 0.00; 1000.00;
+M44:Nm3/h; 0.00; 10000.00; 0.00; 10000.00;
+M45:%; 0.00; 100.00;0.00; 100.00;
+M46:%; 0.00; 100.00;0.00; 100.00;
+M47:%; 0.00; 100.00;0.00; 100.00;
+M48:%; 0.00; 100.00;0.00; 100.00;
+M49:%; 0.00; 100.00;0.00; 100.00;
+M50:%; 0.00; 100.00;0.00; 100.00;
+M51:%; 0.00; 100.00;0.00; 100.00;
+M52:%; 0.00; 100.00;0.00; 100.00;
+M53:%; 0.00; 100.00;0.00; 100.00;
+M54:%; 0.00; 100.00;0.00; 100.00;
+M55:%; 0.00; 100.00;0.00; 100.00;
+M56:%; 0.00; 100.00;0.00; 100.00;
+M57:%; 0.00; 100.00;0.00; 100.00;
+M58:%; 0.00; 100.00;0.00; 100.00;
+M59:%; 0.00; 100.00;0.00; 100.00;
+M60:%; 0.00; 100.00;0.00; 100.00;
+M61:%; 0.00; 100.00;0.00; 100.00;
+M62:%; 0.00; 100.00;0.00; 100.00;
+M63:%; 0.00; 100.00;0.00; 100.00;
+M64:%; 0.00; 100.00;0.00; 100.00;
+M65:%; 0.00; 100.00;0.00; 100.00;
+M66:%; 0.00; 100.00;0.00; 100.00;
+M67:%; 0.00; 100.00;0.00; 100.00;
+M68:%; 0.00; 100.00;0.00; 100.00;
+M69:%; 0.00; 100.00;0.00; 100.00;
+M70:%; 0.00; 100.00;0.00; 100.00;
+M71:%; 0.00; 100.00;0.00; 100.00;
+M72:%; 0.00; 100.00;0.00; 100.00;
+M73:%; 0.00; 100.00;0.00; 100.00;
+M74:%; 0.00; 100.00;0.00; 100.00;
+M75:%; 0.00; 100.00;0.00; 100.00;
+M76:%; 0.00; 100.00;0.00; 100.00;
+M77:%; 0.00; 100.00;0.00; 100.00;
+M78:%; 0.00; 100.00;0.00; 100.00;
+M79:%; 0.00; 100.00;0.00; 100.00;
+M80:%; 0.00; 100.00;0.00; 100.00;
+M81:%; 0.00; 100.00;0.00; 100.00;
+M82:%; 0.00; 100.00;0.00; 100.00;
+M83:%; 0.00; 100.00;0.00; 100.00;
+M84:%; 0.00; 100.00;0.00; 100.00;
+M85:%; 0.00; 100.00;0.00; 100.00;
+M86:%; 0.00; 100.00;0.00; 100.00;
+M87:%; 0.00; 100.00;0.00; 100.00;
+M88:%; 0.00; 100.00;0.00; 100.00;
+M89:%; 0.00; 100.00;0.00; 100.00;
+M90:%; 0.00; 100.00;0.00; 100.00;
+M91:%; 0.00; 100.00;0.00; 100.00;
+M92:%; 0.00; 100.00;0.00; 100.00;
+M93:%; 0.00; 100.00;0.00; 100.00;
+M94:%; 0.00; 100.00;0.00; 100.00;
+M95:%; 0.00; 100.00;0.00; 100.00;
+M96:%; 0.00; 100.00;0.00; 100.00;
+<<Tracks>>
+TRUE
+Demanda Térmica(Nm3/h de Gás)
+57
+212
+ 5.00000000000000E+0001
+TRUE
+TRUE
+Relação Ar/Gás
+177
+224
+ 9.80000000000000E+0000
+FALSE
+FALSE
+
+250
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+314
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+378
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+442
+844
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:REL_AR_GAS
+{C01/02} Desc: SP REL_AR_GAS
+{C01/03} Kc:1
+{C01/04} Ti:10
+{C01/05} Td:0
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax: 0.00
+{C01/12} Escala PVmin: 100.00
+{C01/13} BackMV CK:False
+{C01/14} Indice lista PV:41
+{C01/15} Indice lista SPR:15
+{C01/16} Endereço  BackMV:1
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:True
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:-50.04
+{C01/24} Erroant:0.04
+{C01/25} PVant:9.76
+{C01/26} Habilita Modo Remoto:False
+{C01/27} Habilita Modo Auto:False
+{C01/28} 9.80
+{C01/29} 0.00
+=====<<<CONTROLADOR:02>>>=====
+{C02/01} Tag:FIC102
+{C02/02} Desc: SP FIC102
+{C02/03} Kc:1.5
+{C02/04} Ti:1.5
+{C02/05} Td:0
+{C02/06} Bias:50
+{C02/07} Fator a:1
+{C02/08} Tf Filtro:0
+{C02/09} COmim:0
+{C02/10} COMax:100
+{C02/11} Escala PVMax: 0.00
+{C02/12} Escala PVmin: 10000.00
+{C02/13} BackMV CK:False
+{C02/14} Indice lista PV:22
+{C02/15} Indice lista SPR:14
+{C02/16} Endereço  BackMV:1
+{C02/17} Acao FF:50
+{C02/18} Habilita SPR:True
+{C02/19} Habilita FF:False
+{C02/20} Tipo acao:1
+{C02/21} Derivada na PV:1
+{C02/22} Estrutura ISA:1
+{C02/23} Iant:0.00
+{C02/24} Erroant:-0.00
+{C02/25} PVant:50.00
+{C02/26} Habilita Modo Remoto:False
+{C02/27} Habilita Modo Auto:True
+{C02/28} 50.00
+{C02/29} 50.00
+=====<<<CONTROLADOR:03>>>=====
+{C03/01} Tag:FIC103
+{C03/02} Desc: SP FIC103
+{C03/03} Kc:1
+{C03/04} Ti:2
+{C03/05} Td:0
+{C03/06} Bias:50
+{C03/07} Fator a:1
+{C03/08} Tf Filtro:0
+{C03/09} COmim:0
+{C03/10} COMax:100
+{C03/11} Escala PVMax: 0.00
+{C03/12} Escala PVmin: 1000.00
+{C03/13} BackMV CK:False
+{C03/14} Indice lista PV:42
+{C03/15} Indice lista SPR:14
+{C03/16} Endereço  BackMV:1
+{C03/17} Acao FF:50
+{C03/18} Habilita SPR:True
+{C03/19} Habilita FF:False
+{C03/20} Tipo acao:1
+{C03/21} Derivada na PV:1
+{C03/22} Estrutura ISA:1
+{C03/23} Iant:6.23
+{C03/24} Erroant:0.35
+{C03/25} PVant:49.65
+{C03/26} Habilita Modo Remoto:False
+{C03/27} Habilita Modo Auto:True
+{C03/28} 50.00
+{C03/29} 56.58
+<Process>
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:TT101
+{P21/02} Desc:Temperatura Câmara
+{P21/03} Indice lista PV:21
+{P21/04} Tal 1:7
+{P21/05} Tal 2:4
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:0
+{P21/08} Tempo Morto:0
+{P21/09} Ganho:0.93
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:0
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:55.08
+{P21/19} Y2:49.79
+{P21/20} Y0old:55.08
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:54.70
+{P21/24} IntAc1:53.79
+{P21/25} IntAc2:53.53
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:FT103
+{P22/02} Desc:Vazão de Gás
+{P22/03} Indice lista PV:40
+{P22/04} Tal 1:2.5
+{P22/05} Tal 2:0.5
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:0
+{P22/08} Tempo Morto:1.2
+{P22/09} Ganho:1
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:0
+{P22/14} Tipo FT:0
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:56.70
+{P22/19} Y2:55.14
+{P22/20} Y0old:57.52
+{P22/21} Y1old:0.00
+{P22/22} Y1old2:0.00
+{P22/23} x5old:56.80
+{P22/24} IntAc1:55.46
+{P22/25} IntAc2:55.14
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:FT102
+{P23/02} Desc:Vazão de Ar
+{P23/03} Indice lista PV:1
+{P23/04} Tal 1:1.5
+{P23/05} Tal 2:0
+{P23/06} Habilita Desat Sat:False
+{P23/07} Histerese:0
+{P23/08} Tempo Morto:0.5
+{P23/09} Ganho:1-0.45*M97
+{P23/10} Tipo Valv:0
+{P23/11} Agarramento:0
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:0
+{P23/14} Tipo FT:0
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:50.00
+{P23/19} Y2:50.00
+{P23/20} Y0old:50.00
+{P23/21} Y1old:0.00
+{P23/22} Y1old2:0.00
+{P23/23} x5old:50.00
+{P23/24} IntAc1:50.00
+{P23/25} IntAc2:50.00
+=====<<<PROCESSO:24>>>=====
+{P24/01} Tag:FY103b
+{P24/02} Desc:Falha em FCV103
+{P24/03} Indice lista PV:2
+{P24/04} Tal 1:0
+{P24/05} Tal 2:0
+{P24/06} Habilita Desat Sat:False
+{P24/07} Histerese:0
+{P24/08} Tempo Morto:0
+{P24/09} Ganho:1
+{P24/10} Tipo Valv:0
+{P24/11} Agarramento:13
+{P24/12} RateLimiter:0
+{P24/13} Const. Tempo Atuador:0
+{P24/14} Tipo FT:0
+{P24/15} Num.Ciclos:1x10
+{P24/16} Lead:0
+{P24/17} Lag:0
+{P24/18} X0:56.00
+{P24/19} Y2:56.96
+{P24/20} Y0old:56.96
+{P24/21} Y1old:0.00
+{P24/22} Y1old2:0.00
+{P24/23} x5old:57.10
+{P24/24} IntAc1:56.96
+{P24/25} IntAc2:56.96
+<Blocs>
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:FY103c
+{B41/02} Desc:Falha em FCV103
+{B41/03} Funcao:M98*M24+(1-M98)*M03
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:-5
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:Rel_Real
+{B42/02} Desc:Relação Ar/Gás Real
+{B42/03} Funcao:M23*M16/M43
+{B42/04} Lim Sup:9999
+{B42/05} Lim Inf:0
+{B42/06} Habilita Lim Sup:False
+{B42/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:43>>>=====
+{B43/01} Tag:FY103a
+{B43/02} Desc:Medição Final do Gás
+{B43/03} Funcao:M22+M99*M81
+{B43/04} Lim Sup:100
+{B43/05} Lim Inf:0
+{B43/06} Habilita Lim Sup:True
+{B43/07} Habilita Lim Inf:True
+<Registers>
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+=====<<<REGISTRADOR:201>>>=====
+{R/01} Tag:RelReg
+{R/02} Desc:Relação Ar/Gás
+{R/03} Ind Lista Var1:41
+{R/04} Desc Var1:Valor Medido
+{R/05} Ind Lista Var2:15
+{R/06} Desc Var2:Valor Teórico
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:204>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:PV
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:SP
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:MV
+{R/09} Ind Lista Base Tempo:0
+<Textos Animados>
+True
+True
+True
+True
+True
+True
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:MV
+{T/02} Funcao:M03
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:2
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:MV
+{T/02} Funcao:M02
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:1
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Vazão de Ar
+{T/02} Funcao:M23*M16
+{T/03} Casas Decimais:0
+{T/04} Unidade:Nm3/h
+{T/05} Faixa Max:1000.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:2
+{T/08} Variavel:22
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Vazão de Gás
+{T/02} Funcao:M22
+{T/03} Casas Decimais:0
+{T/04} Unidade:Nm3/h
+{T/05} Faixa Max: 1000.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:42
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:Temperatura Câmara
+{T/02} Funcao:M21
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max:750
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:106>>>=====
+{T/01} Desc:Relação Ar/Gás Medida
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:
+{T/05} Faixa Max: 100.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:41
+=====<<<TEXTO ANIMADO:108>>>=====
+{T/01} Desc:SP de Gás
+{T/02} Funcao:M01
+{T/03} Casas Decimais:0
+{T/04} Unidade:Nm3/h
+{T/05} Faixa Max: 1000.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:14
+=====<<<TEXTO ANIMADO:109>>>=====
+{T/01} Desc:SP de Ar
+{T/02} Funcao:M15*M16
+{T/03} Casas Decimais:0
+{T/04} Unidade:Nm3/h
+{T/05} Faixa Max:1000
+{T/06} Faixa Min:0.00
+{T/07} Tipo:2
+{T/08} Variavel:43
+=====<<<COORDENADAS>>>=====
+REL_AR_GAS
+3
+3
+False
+FIC102
+311
+86
+True
+FIC103
+482
+89
+True
+TT101
+685
+382
+False
+FT103
+24
+595
+False
+FT102
+114
+387
+False
+FY103b
+24
+572
+False
+RelReg
+90
+180
+True
+
+635
+3
+False
+FY103c
+111
+571
+False
+Rel_Real
+15
+435
+False
+FY103a
+113
+596
+False
+474
+413
+True
+281
+401
+True
+265
+189
+True
+454
+186
+True
+426
+584
+True
+173
+42
+True
+428
+329
+True
+238
+336
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 7
+{P/02} Descrição
+{P/03} -5
+{P/04} 5
+{P/05} M82+M83
+{P/06} 3
+{P/07} 7
+{P/08} -8
+{P/09} 8
+{P/10} -5.64
+{P/11} 2
+{P/12} Descrição
+{P/13} -1
+{P/14} 1
+{P/15} -0.90
+{P/16} 0
+{P/17} Descrição
+{P/18} Min.
+{P/19} Máx.
+{P/20} Valor
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} -3
+{P/34} 3
+{P/35} Valor
+{P/36} 0
+{P/37} Descrição
+{P/38} -0.5
+{P/39} 0.5
+{P/40} Valor
+{P/41} 0
+{P/42} Descrição
+{P/43} 0
+{P/44} 0.05
+{P/45} Valor
+{P/46} 0
+{P/47} Descrição
+{P/48} -0.5
+{P/49} 0.5
+{P/50} Valor
+{P/51} 0
+{P/52} Descrição
+{P/53} /
+{P/54} /
+{P/55} Valor
+{P/56} 0
+{P/57} Descrição
+{P/58} /
+{P/59} /
+{P/60} Valor
+{P/61} 0
+{P/62} Descrição
+{P/63} /
+{P/64} /
+{P/65} Valor
+{P/66} 0
+{P/67} Descrição
+{P/68} /
+{P/69} /
+{P/70} Valor
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+16
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+88
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+160
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+232
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+304
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+96
+1000
+FALSE
+0
+0
+40
+1000
+FALSE
+0
+0
+41
+622
+TRUE
+Normal
+Baixa
+Pressão de Ar
+0
+TRUE
+Normal
+Em Falha
+Valvula FCV-103
+0
+TRUE
+Desligado
+Ligado
+Distúrbio Gas
+1
+=====<<<LINEARIZADOR>>>=====)
+
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+
+- Controle de Razão entre Ar e Combustível;
+
+Estratégias: 
+(1) Ar e Gás Seguidores de SP Remoto; 
+(2) Ar e Gás em Limites Cruzados e 
+(3) Ar e Gás em Duplo Limites Cruzados.
+
+Descrição: A demanda térmica é a quantidade de 
+combustível requerida pelo controle principal para o 
+aquecimento do forno, enquanto que a quantidade teórica 
+de ar necessária para a queima completa deste combustível 
+é determinada pela "Relação Ar-gás". O papel da estratégia 
+de controle é atender a demanda térmica e, ao mesmo 
+tempo, manter a proporção correta nas vazões de ar e 
+combustível. 
+Objetivo: Testar diferentes estratégias de controle de razão 
+aplicados a um sistema de queima durante mudanças de 
+demanda, indisponibilidade de ar ou combustível e falha em 
+instrumentos.
+
+Características de operação:  O primeiro botao do painel de 
+comando simula uma situação de indisponibilidade de ar 
+causado por uma queda de 35% na pressão da linha de ar. 
+O segundo simula uma falha por agarramento ne válvula da 
+linha de gás. O registrador RELREG permite acompanhar o 
+valor real da relação ar/gás. 
+
+Testes: 
+(1) Provocar mudanças na demanda térmica e verificar a 
+manutenção da relaçao ar/gás . 
+(2) Tentar melhorar a relação durante transição de demanda 
+sincronizando as malhas 
+(3) Repetir novas mudanças na demanda térmica após 
+ativar simulação de falhas de indisponibilidade de ar e 
+agarramento na válvula de combustível (botões 1 e 2 do 
+painel de comando). 
+
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>

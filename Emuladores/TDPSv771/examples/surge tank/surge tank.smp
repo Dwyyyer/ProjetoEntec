@@ -1,0 +1,837 @@
+Caixa de Polpa
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:%;0; 100.00;0.00;100.00;
+M16:%;0; 100.00;0.00;100.00;
+M17:%;0; 100.00;0.00;100.00;
+M18:%;0; 100.00;0.00;100.00;
+M19:%;0; 100.00;0.00;100.00;
+M20:%;0; 100.00;0.00;100.00;
+M21:%;0; 100.00;0.00;100.00;
+M22:%;0; 100.00; 10.00;100.00;
+M23:m3/h;0; 400.00; 0.00; 400.00;
+M24:ton/h;0; 1000.00; 0.00; 1000.00;
+M25:%;0; 100.00;0.00;100.00;
+M26:%;0; 100.00;0.00;100.00;
+M27:%;0; 100.00;0.00;100.00;
+M28:%;0; 100.00;0.00;100.00;
+M29:%;0; 100.00;0.00;100.00;
+M30:%;0; 100.00;0.00;100.00;
+M31:%;0; 100.00;0.00;100.00;
+M32:%;0; 100.00;0.00;100.00;
+M33:%;0; 100.00;0.00;100.00;
+M34:%;0; 100.00;0.00;100.00;
+M35:%;0; 100.00;0.00;100.00;
+M36:%;0; 100.00;0.00;100.00;
+M37:%;0; 100.00;0.00;100.00;
+M38:%;0; 100.00;0.00;100.00;
+M39:%;0; 100.00;0.00;100.00;
+M40:%;0; 100.00;0.00;100.00;
+M41:%;0; 100.00;0.00;100.00;
+M42:ton/h;0; 1000.00; 0.00; 1000.00;
+M43:%;0; 100.00;0.00;100.00;
+M44:%;0; 100.00;0.00;100.00;
+M45:%;0; 100.00;0.00;100.00;
+M46:%;0; 100.00;0.00;100.00;
+M47:%;0; 100.00;0.00;100.00;
+M48:%;0; 100.00;0.00;100.00;
+M49:%;0; 100.00;0.00;100.00;
+M50:%;0; 100.00;0.00;100.00;
+M51:%;0; 100.00;0.00;100.00;
+M52:%;0; 100.00;0.00;100.00;
+M53:%;0; 100.00;0.00;100.00;
+M54:%;0; 100.00;0.00;100.00;
+M55:%;0; 100.00;0.00;100.00;
+M56:%;0; 100.00;0.00;100.00;
+M57:%;0; 100.00;0.00;100.00;
+M58:%;0; 100.00;0.00;100.00;
+M59:%;0; 100.00;0.00;100.00;
+M60:%;0; 100.00;0.00;100.00;
+M61:%;0; 100.00;0.00;100.00;
+M62:%;0; 100.00;0.00;100.00;
+M63:%;0; 100.00;0.00;100.00;
+M64:%;0; 100.00;0.00;100.00;
+M65:%;0; 100.00;0.00;100.00;
+M66:%;0; 100.00;0.00;100.00;
+M67:%;0; 100.00;0.00;100.00;
+M68:%;0; 100.00;0.00;100.00;
+M69:%;0; 100.00;0.00;100.00;
+M70:%;0; 100.00;0.00;100.00;
+M71:%;0; 100.00;0.00;100.00;
+M72:%;0; 100.00;0.00;100.00;
+M73:%;0; 100.00;0.00;100.00;
+M74:%;0; 100.00;0.00;100.00;
+M75:%;0; 100.00;0.00;100.00;
+M76:%;0; 100.00;0.00;100.00;
+M77:%;0; 100.00;0.00;100.00;
+M78:%;0; 100.00;0.00;100.00;
+M79:%;0; 100.00;0.00;100.00;
+M80:%;0; 100.00;0.00;100.00;
+M81:%;0; 100.00;0.00;100.00;
+M82:%;0; 100.00;0.00;100.00;
+M83:%;0; 100.00;0.00;100.00;
+M84:%;0; 100.00;0.00;100.00;
+M85:%;0; 100.00;0.00;100.00;
+M86:%;0; 100.00;0.00;100.00;
+M87:%;0; 100.00;0.00;100.00;
+M88:%;0; 100.00;0.00;100.00;
+M89:%;0; 100.00;0.00;100.00;
+M90:%;0; 100.00;0.00;100.00;
+M91:%;0; 100.00;0.00;100.00;
+M92:%;0; 100.00;0.00;100.00;
+M93:%;0; 100.00;0.00;100.00;
+M94:%;0; 100.00;0.00;100.00;
+M95:%;0; 100.00;0.00;100.00;
+M96:%;0; 100.00;0.00;100.00;
+<<Tracks>>
+FALSE
+
+122
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+186
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+250
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+314
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+378
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+442
+844
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:FIC01
+{C01/02} Desc: SP FIC01
+{C01/03} Kc:0.95
+{C01/04} Ti:6.72
+{C01/05} Td:0
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax:0
+{C01/12} Escala PVmin: 1000.00
+{C01/13} BackMV CK:False
+{C01/14} Indice lista PV:41
+{C01/15} Indice lista SPR:23
+{C01/16} Endereço  BackMV:1
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:True
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:-13.83
+{C01/24} Erroant:-1.39
+{C01/25} PVant:32.64
+{C01/26} Habilita Modo Remoto:False
+{C01/27} Habilita Modo Auto:True
+{C01/28} 31.25
+{C01/29} 34.86
+=====<<<CONTROLADOR:02>>>=====
+{C02/01} Tag:LIC01
+{C02/02} Desc: SP LIC01
+{C02/03} Kc:1.645
+{C02/04} Ti:30.4
+{C02/05} Td:0
+{C02/06} Bias:50
+{C02/07} Fator a:1
+{C02/08} Tf Filtro:0
+{C02/09} COmim:0
+{C02/10} COMax:100
+{C02/11} Escala PVMax:0
+{C02/12} Escala PVmin: 100.00
+{C02/13} BackMV CK:False
+{C02/14} Indice lista PV:21
+{C02/15} Indice lista SPR:-1
+{C02/16} Endereço  BackMV:1
+{C02/17} Acao FF:50
+{C02/18} Habilita SPR:False
+{C02/19} Habilita FF:False
+{C02/20} Tipo acao:0
+{C02/21} Derivada na PV:0
+{C02/22} Estrutura ISA:1
+{C02/23} Iant:14.45
+{C02/24} Erroant:-2.60
+{C02/25} PVant:47.40
+{C02/26} Habilita Modo Remoto:True
+{C02/27} Habilita Modo Auto:True
+{C02/28} 50.00
+{C02/29} 60.17
+<Process>
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:FT01
+{P21/02} Desc:Vazão Mássica Minério
+{P21/03} Indice lista PV:0
+{P21/04} Tal 1:3
+{P21/05} Tal 2:0
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:3
+{P21/08} Tempo Morto:2
+{P21/09} Ganho:1
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:5
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:33.62
+{P21/19} Y2:34.26
+{P21/20} Y0old:34.56
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:34.10
+{P21/24} IntAc1:34.26
+{P21/25} IntAc2:34.26
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:LT01
+{P22/02} Desc:Nível Caixa
+{P22/03} Indice lista PV:40
+{P22/04} Tal 1:3
+{P22/05} Tal 2:3
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:0
+{P22/08} Tempo Morto:1
+{P22/09} Ganho:0.078
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:1
+{P22/14} Tipo FT:3
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:-3.12
+{P22/19} Y2:47.40
+{P22/20} Y0old:-4.70
+{P22/21} Y1old:47.40
+{P22/22} Y1old2:0.00
+{P22/23} x5old:-3.50
+{P22/24} IntAc1:0.00
+{P22/25} IntAc2:0.00
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:FT02
+{P23/02} Desc:Dinâmica da BP2
+{P23/03} Indice lista PV:1
+{P23/04} Tal 1:1.1
+{P23/05} Tal 2:0
+{P23/06} Habilita Desat Sat:False
+{P23/07} Histerese:0
+{P23/08} Tempo Morto:0.4
+{P23/09} Ganho:1
+{P23/10} Tipo Valv:0
+{P23/11} Agarramento:0
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:0
+{P23/14} Tipo FT:0
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:60.25
+{P23/19} Y2:61.57
+{P23/20} Y0old:60.55
+{P23/21} Y1old:0.00
+{P23/22} Y1old2:0.00
+{P23/23} x5old:60.60
+{P23/24} IntAc1:61.57
+{P23/25} IntAc2:61.57
+=====<<<PROCESSO:24>>>=====
+{P24/01} Tag:FY01
+{P24/02} Desc:Setpoint Remoto de FIC01
+{P24/03} Indice lista PV:80
+{P24/04} Tal 1:37
+{P24/05} Tal 2:23
+{P24/06} Habilita Desat Sat:False
+{P24/07} Histerese:0
+{P24/08} Tempo Morto:0
+{P24/09} Ganho:1
+{P24/10} Tipo Valv:0
+{P24/11} Agarramento:0
+{P24/12} RateLimiter:0
+{P24/13} Const. Tempo Atuador:33
+{P24/14} Tipo FT:0
+{P24/15} Num.Ciclos:1x10
+{P24/16} Lead:0
+{P24/17} Lag:0
+{P24/18} X0:40.47
+{P24/19} Y2:31.25
+{P24/20} Y0old:27.54
+{P24/21} Y1old:0.00
+{P24/22} Y1old2:0.00
+{P24/23} x5old:40.50
+{P24/24} IntAc1:26.90
+{P24/25} IntAc2:31.25
+<Blocs>
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:BM
+{B41/02} Desc:Balanço de Massa para Caixa Polpa
+{B41/03} Funcao:M21+M82*M97-M23
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:0
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:FY02
+{B42/02} Desc:Medição de Vazão Mássica
+{B42/03} Funcao:M21+M83+(M21/100)*M84
+{B42/04} Lim Sup:105
+{B42/05} Lim Inf:0
+{B42/06} Habilita Lim Sup:False
+{B42/07} Habilita Lim Inf:True
+<Registers>
+False
+False
+True
+True
+True
+True
+True
+True
+True
+True
+=====<<<REGISTRADOR:203>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:204>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:205>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:206>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:207>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:208>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:209>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:210>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+<Textos Animados>
+True
+True
+True
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:Vazão de Reciclo
+{T/02} Funcao:M82*M97
+{T/03} Casas Decimais:2
+{T/04} Unidade:m3/h
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:Vazão Mássica
+{T/02} Funcao:M42
+{T/03} Casas Decimais:2
+{T/04} Unidade:ton/h
+{T/05} Faixa Max: 1000.00
+{T/06} Faixa Min:0
+{T/07} Tipo:0
+{T/08} Variavel:41
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Vazão Saída
+{T/02} Funcao:M23
+{T/03} Casas Decimais:2
+{T/04} Unidade:m3/h
+{T/05} Faixa Max: 400.00
+{T/06} Faixa Min:0
+{T/07} Tipo:0
+{T/08} Variavel:22
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Nível
+{T/02} Funcao:M22
+{T/03} Casas Decimais:2
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:Produção
+{T/02} Funcao:
+{T/03} Casas Decimais:2
+{T/04} Unidade:ton/h
+{T/05} Faixa Max: 1000.00
+{T/06} Faixa Min:0
+{T/07} Tipo:0
+{T/08} Variavel:23
+=====<<<TEXTO ANIMADO:107>>>=====
+{T/01} Desc:Veloc.BP2
+{T/02} Funcao:M01
+{T/03} Casas Decimais:1
+{T/04} Unidade:rpm
+{T/05} Faixa Max:500
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<COORDENADAS>>>=====
+FIC01
+132
+317
+True
+LIC01
+410
+95
+True
+FT01
+713
+277
+False
+LT01
+664
+518
+False
+FT02
+657
+487
+False
+FY01
+711
+244
+False
+
+306
+55
+False
+
+306
+79
+False
+
+306
+103
+False
+
+306
+127
+False
+
+306
+151
+False
+
+306
+175
+False
+
+306
+199
+False
+
+306
+224
+False
+BM
+744
+486
+False
+FY02
+710
+212
+False
+220
+523
+True
+196
+327
+True
+547
+370
+True
+505
+145
+True
+58
+143
+True
+568
+239
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 4
+{P/02} Produção
+{P/03} 20
+{P/04} 70
+{P/05} 40.47
+{P/06} 3
+{P/07} 5
+{P/08} 10
+{P/09} 40
+{P/10} 24.25
+{P/11} 2
+{P/12} Ruído Vibração
+{P/13} -1
+{P/14} 1
+{P/15} -0.42
+{P/16} 3
+{P/17} 4
+{P/18} -15
+{P/19} 15
+{P/20} -3.53
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} Min.
+{P/34} Máx.
+{P/35} Valor
+{P/36} 0
+{P/37} Descrição
+{P/38} -15
+{P/39} 15
+{P/40} Valor
+{P/41} 0
+{P/42} Descrição
+{P/43} -2
+{P/44} 2
+{P/45} Valor
+{P/46} 0
+{P/47} Descrição
+{P/48} 15
+{P/49} 35
+{P/50} Valor
+{P/51} 0
+{P/52} Descrição
+{P/53} /
+{P/54} /
+{P/55} Valor
+{P/56} 0
+{P/57} Descrição
+{P/58} /
+{P/59} /
+{P/60} Valor
+{P/61} 0
+{P/62} Descrição
+{P/63} /
+{P/64} /
+{P/65} Valor
+{P/66} 0
+{P/67} Descrição
+{P/68} /
+{P/69} /
+{P/70} Valor
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+184
+522
+TRUE
+0
+96
+20
+18
+clRed
+clLime
+438
+234
+TRUE
+1
+21
+42
+34
+clOlive
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+96
+1000
+FALSE
+0
+0
+40
+1000
+FALSE
+0
+0
+37
+492
+TRUE
+Desligado
+Ligado
+Bomba Polpa 1
+1
+FALSE
+Desligada
+Ligada
+Bompa Polpa 2
+0
+FALSE
+False
+False
+False
+0
+=====<<<LINEARIZADOR>>>=====)
+04  
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+
+- Controle de Vazão com SP variável;
+- Controle Médio de Nível em Tanque Pulmão
+
+Descrição: O minério britado é peneirado e a polpa com 
+particulado é enviada para um separador magnético. Este 
+equipamento é projetado para processar em torno de 300 
+M3/h de polpa e seu rendimento é menor se sua 
+alimentação for instável ou sofrer variações abruptas. Este é 
+um dos motivos para a utilização da caixa de polpa, que 
+opera como um “tanques pulmão” armazenando 
+momentaneamente o material entre o Peneiramento e a 
+Separação Magnética. 
+
+Objetivo: Projetar o controlador LIC01 de maneira a 
+maximizar a capacidade de absorção de carga da caixa de 
+polpa. 
+
+Operação: FIC01 tem a função de controlar a vazão 
+mássica na alimentação da Peneira 2 manipulando a 
+velocidade da correia transportadora. Seu setpoint é 
+determinado remotamente de acordo com a demanda de 
+produção. Durante testes, porém, FIC01 pode ser operado 
+momentaneamente em modo Local. LIC01 tem a função de 
+controlar o nível da caixa entre os limites de 10 e 90% 
+manipulando a velocidade de BP2. A bomba de polpa 2 
+(BP2) envia material de um tanque de rejeito de volta para a 
+peneira 2. Sua operação é constantemente interrompida 
+causando forte variação de carga no processo. 
+
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>
