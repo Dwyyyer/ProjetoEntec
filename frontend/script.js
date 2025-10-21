@@ -1,12 +1,11 @@
 const socket = io();
 
-// === CONFIGURAÇÃO DO GRÁFICO ===
 const ctx = document.getElementById('grafico').getContext('2d');
 
 const chart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: [], // tempo
+    labels: [], 
     datasets: [
       {
         label: 'PV',
@@ -49,7 +48,6 @@ function atualizarGrafico({ tempo, pv, sp, mv }) {
   chart.data.datasets[1].data.push(sp);
   chart.data.datasets[2].data.push(mv);
 
-  // manter só os últimos 100 pontos
   if (chart.data.labels.length > 100) {
     chart.data.labels.shift();
     chart.data.datasets.forEach(d => d.data.shift());
