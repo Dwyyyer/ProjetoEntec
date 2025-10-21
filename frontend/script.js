@@ -10,19 +10,19 @@ const chart = new Chart(ctx, {
       {
         label: 'PV',
         data: [],
-        borderColor: '#00bcd4',
+        borderColor: '#ff9800 ',
         tension: 0.2
       },
       {
         label: 'SP',
         data: [],
-        borderColor: '#4caf50',
+        borderColor: '#00bcd4 ',
         tension: 0.2
       },
       {
         label: 'MV',
         data: [],
-        borderColor: '#ff9800',
+        borderColor: '#4caf50 ',
         tension: 0.2
       }
     ]
