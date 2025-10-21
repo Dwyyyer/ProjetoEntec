@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gráfico em Tempo Real</title>
+
+  <!-- Chart.js (CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Socket.IO (CDN) -->
+  <script src="/socket.io/socket.io.js"></script>
+
+  <style>
+    body {
+      background: #121212;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      justify-content: center;
+      gap: 1rem;
+    }
+    canvas {
+      max-width: 90%;
+      max-height: 80vh;
+      background: #1e1e1e;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+  </style>
+</head>
+<body>
+  <h1>Monitoramento do micro-controlador em Tempo Real</h1>
+  <canvas id="grafico"></canvas>
+
+  <script src="script.js"></script>
+</body>
+</html>

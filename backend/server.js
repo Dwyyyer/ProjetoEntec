@@ -26,7 +26,7 @@ function inserirNoBanco(tempo, pv, sp, mv) {
 
 setInterval(() => {
   try {
-    const linhas = fs.readFileSync("./FIC101_2.txt", "utf8").trim().split("\n");
+    const linhas = fs.readFileSync("./FIC101_1.txt", "utf8").trim().split("\n");
     console.log(linhas)
     const ultimaLinha = linhas[linhas.length - 1];
 
@@ -38,7 +38,7 @@ setInterval(() => {
     if (partes.length >= 4) {
       const [tempo, pv, sp, mv] = partes;
 
-      //inserirNoBanco(tempo, pv, sp, mv); <- ajustar essa função depois
+      inserirNoBanco(tempo, pv, sp, mv);
 
       io.emit("novo-dado", { tempo, pv, sp, mv });
     }

@@ -1,0 +1,609 @@
+Controle Temperatura com Split-Range
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:%;0.00;100.00;0.00;100.00;
+M16:%;0.00;100.00;0.00;100.00;
+M17:%;0.00;100.00;0.00;100.00;
+M18:%;0.00;100.00;0.00;100.00;
+M19:%;0.00;100.00;0.00;100.00;
+M20:%;0.00;100.00;0.00;100.00;
+M21:%;0.00;100.00;0.00;100.00;
+M22:%;0.00;100.00;0.00;100.00;
+M23:oC;0;100;0;100;
+M24:%;0.00;100.00;0.00;100.00;
+M25:%;0.00;100.00;0.00;100.00;
+M26:%;0.00;100.00;0.00;100.00;
+M27:%;0.00;100.00;0.00;100.00;
+M28:%;0.00;100.00;0.00;100.00;
+M29:%;0.00;100.00;0.00;100.00;
+M30:%;0.00;100.00;0.00;100.00;
+M31:%;0.00;100.00;0.00;100.00;
+M32:%;0.00;100.00;0.00;100.00;
+M33:%;0.00;100.00;0.00;100.00;
+M34:%;0.00;100.00;0.00;100.00;
+M35:%;0.00;100.00;0.00;100.00;
+M36:%;0.00;100.00;0.00;100.00;
+M37:%;0.00;100.00;0.00;100.00;
+M38:%;0.00;100.00;0.00;100.00;
+M39:%;0.00;100.00;0.00;100.00;
+M40:%;0.00;100.00;0.00;100.00;
+M41:%;0.00;100.00;0.00;100.00;
+M42:%;0.00;100.00;0.00;100.00;
+M43:%;0.00;100.00;0.00;100.00;
+M44:%;0.00;100.00;0.00;100.00;
+M45:%;0.00;100.00;0.00;100.00;
+M46:%;0.00;100.00;0.00;100.00;
+M47:%;0.00;100.00;0.00;100.00;
+M48:%;0.00;100.00;0.00;100.00;
+M49:%;0.00;100.00;0.00;100.00;
+M50:%;0.00;100.00;0.00;100.00;
+M51:%;0.00;100.00;0.00;100.00;
+M52:%;0.00;100.00;0.00;100.00;
+M53:%;0.00;100.00;0.00;100.00;
+M54:%;0.00;100.00;0.00;100.00;
+M55:%;0.00;100.00;0.00;100.00;
+M56:%;0.00;100.00;0.00;100.00;
+M57:%;0.00;100.00;0.00;100.00;
+M58:%;0.00;100.00;0.00;100.00;
+M59:%;0.00;100.00;0.00;100.00;
+M60:%;0.00;100.00;0.00;100.00;
+M61:%;0.00;100.00;0.00;100.00;
+M62:%;0.00;100.00;0.00;100.00;
+M63:%;0.00;100.00;0.00;100.00;
+M64:%;0.00;100.00;0.00;100.00;
+M65:%;0.00;100.00;0.00;100.00;
+M66:%;0.00;100.00;0.00;100.00;
+M67:%;0.00;100.00;0.00;100.00;
+M68:%;0.00;100.00;0.00;100.00;
+M69:%;0.00;100.00;0.00;100.00;
+M70:%;0.00;100.00;0.00;100.00;
+M71:%;0.00;100.00;0.00;100.00;
+M72:%;0.00;100.00;0.00;100.00;
+M73:%;0.00;100.00;0.00;100.00;
+M74:%;0.00;100.00;0.00;100.00;
+M75:%;0.00;100.00;0.00;100.00;
+M76:%;0.00;100.00;0.00;100.00;
+M77:%;0.00;100.00;0.00;100.00;
+M78:%;0.00;100.00;0.00;100.00;
+M79:%;0.00;100.00;0.00;100.00;
+M80:%;0.00;100.00;0.00;100.00;
+M81:%;0.00;100.00;0.00;100.00;
+M82:%;0.00;100.00;0.00;100.00;
+M83:%;0.00;100.00;0.00;100.00;
+M84:%;0.00;100.00;0.00;100.00;
+M85:%;0.00;100.00;0.00;100.00;
+M86:%;0.00;100.00;0.00;100.00;
+M87:%;0.00;100.00;0.00;100.00;
+M88:%;0.00;100.00;0.00;100.00;
+M89:%;0.00;100.00;0.00;100.00;
+M90:%;0.00;100.00;0.00;100.00;
+M91:%;0.00;100.00;0.00;100.00;
+M92:%;0.00;100.00;0.00;100.00;
+M93:%;0.00;100.00;0.00;100.00;
+M94:%;0.00;100.00;0.00;100.00;
+M95:%;0.00;100.00;0.00;100.00;
+M96:%;0.00;100.00;0.00;100.00;
+<<Tracks>>
+TRUE
+Divisão MV1
+168
+349
+ 5.00000000000000E+0001
+FALSE
+TRUE
+Divisão MV2
+139
+348
+ 5.00000000000000E+0001
+FALSE
+TRUE
+MV1min
+260
+518
+ 1.00000000000000E+0002
+FALSE
+TRUE
+MV1max
+156
+521
+ 0.00000000000000E+0000
+FALSE
+TRUE
+MV2min
+155
+644
+ 0.00000000000000E+0000
+FALSE
+TRUE
+MV2max
+40
+646
+ 1.00000000000000E+0002
+FALSE
+<Controls>
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:TC
+{C01/02} Desc: SP TC
+{C01/03} Kc:3
+{C01/04} Ti:11.0189
+{C01/05} Td:2.4456
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax:0
+{C01/12} Escala PVmin:100
+{C01/13} BackMV CK:False
+{C01/14} Indice lista PV:22
+{C01/15} Indice lista SPR:-1
+{C01/16} Endereço  BackMV:1
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:False
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:19.39
+{C01/24} Erroant:-3.23
+{C01/25} PVant:65.73
+{C01/26} Habilita Modo Remoto:True
+{C01/27} Habilita Modo Auto:True
+{C01/28} 62.50
+{C01/29} 62.53
+<Process>
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:Temp
+{P23/02} Desc:Temperatura Medida
+{P23/03} Indice lista PV:45
+{P23/04} Tal 1:10
+{P23/05} Tal 2:0
+{P23/06} Habilita Desat Sat:True
+{P23/07} Histerese:0
+{P23/08} Tempo Morto:1.5
+{P23/09} Ganho:0.04
+{P23/10} Tipo Valv:0
+{P23/11} Agarramento:0
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:2
+{P23/14} Tipo FT:3
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:-6.48
+{P23/19} Y2:65.73
+{P23/20} Y0old:-9.61
+{P23/21} Y1old:65.73
+{P23/22} Y1old2:0.00
+{P23/23} x5old:-6.90
+{P23/24} IntAc1:0.00
+{P23/25} IntAc2:0.00
+<Blocs>
+False
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:Faixa MV1
+{B42/02} Desc:
+{B42/03} Funcao:(M01-0)*((M18-M17)/(M15-0))+M17
+{B42/04} Lim Sup:100
+{B42/05} Lim Inf:0
+{B42/06} Habilita Lim Sup:True
+{B42/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:43>>>=====
+{B43/01} Tag:Faixa MV2
+{B43/02} Desc:
+{B43/03} Funcao:(M01-M16)*((M20-M19)/(100-M16))+M19
+{B43/04} Lim Sup:100
+{B43/05} Lim Inf:0
+{B43/06} Habilita Lim Sup:True
+{B43/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:44>>>=====
+{B44/01} Tag:Calor -
+{B44/02} Desc:
+{B44/03} Funcao:(M90-M42*1/2)-M23)
+{B44/04} Lim Sup:105
+{B44/05} Lim Inf:-5
+{B44/06} Habilita Lim Sup:False
+{B44/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:45>>>=====
+{B45/01} Tag:Calor +
+{B45/02} Desc:
+{B45/03} Funcao:(M43*2/2+M90)-M23
+{B45/04} Lim Sup:105
+{B45/05} Lim Inf:-5
+{B45/06} Habilita Lim Sup:False
+{B45/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:46>>>=====
+{B46/01} Tag:SaldoCalor
+{B46/02} Desc:
+{B46/03} Funcao:M45+M44
+{B46/04} Lim Sup:105
+{B46/05} Lim Inf:-5
+{B46/06} Habilita Lim Sup:False
+{B46/07} Habilita Lim Inf:False
+<Registers>
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<REGISTRADOR:201>>>=====
+{R/01} Tag:ZC
+{R/02} Desc:
+{R/03} Ind Lista Var1:0
+{R/04} Desc Var1:PV - Posição da válv. menor
+{R/05} Ind Lista Var2:61
+{R/06} Desc Var2:SP - 50%
+{R/07} Ind Lista Var3:1
+{R/08} Desc Var3:MV - Posição da válv. maior
+{R/09} Ind Lista Base Tempo:0
+<Textos Animados>
+True
+True
+True
+True
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:CO
+{T/02} Funcao:M01
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:SP
+{T/02} Funcao:M61
+{T/03} Casas Decimais:2
+{T/04} Unidade:oC
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:2
+{T/08} Variavel:60
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Temperatura
+{T/02} Funcao:M23
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:0
+{T/08} Variavel:22
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:MV1
+{T/02} Funcao:M42
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:106>>>=====
+{T/01} Desc:MV2
+{T/02} Funcao:M43
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<COORDENADAS>>>=====
+TC
+482
+640
+True
+Temp
+258
+421
+False
+ZC
+853
+240
+False
+Faixa MV1
+645
+363
+False
+Faixa MV2
+624
+595
+False
+Calor -
+557
+362
+False
+Calor +
+540
+597
+False
+SaldoCalor
+258
+392
+False
+423
+666
+True
+506
+741
+True
+544
+579
+True
+350
+530
+True
+499
+528
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 0
+{P/02} Descrição
+{P/03} Min.
+{P/04} Máx.
+{P/05} Valor
+{P/06} 0
+{P/07} Descrição
+{P/08} Min.
+{P/09} Máx.
+{P/10} Valor
+{P/11} 0
+{P/12} Descrição
+{P/13} -1
+{P/14} 1
+{P/15} Valor
+{P/16} 0
+{P/17} Descrição
+{P/18} 0
+{P/19} 0.07
+{P/20} Valor
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} Min.
+{P/34} Máx.
+{P/35} Valor
+{P/36} 0
+{P/37} Descrição
+{P/38} Min.
+{P/39} Máx.
+{P/40} Valor
+{P/41} 0
+{P/42} Descrição
+{P/43} Min.
+{P/44} Máx.
+{P/45} Valor
+{P/46} 0
+{P/47} Temperatura Equilíbrio
+{P/48} Min.
+{P/49} Máx.
+{P/50} 50
+{P/51} 0
+{P/52} MV1 Ys
+{P/53} /
+{P/54} /
+{P/55} 0
+{P/56} 0
+{P/57} MV1 Yi
+{P/58} /
+{P/59} /
+{P/60} 100
+{P/61} 0
+{P/62} MV1 Xs
+{P/63} /
+{P/64} /
+{P/65} 50
+{P/66} 0
+{P/67} MV1 Xi
+{P/68} /
+{P/69} /
+{P/70} 0
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} MV2 Ys
+{P/78} /
+{P/79} /
+{P/80} 100
+0
+50
+FALSE
+0
+0
+1
+0
+clBlack
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+0
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+96
+1000
+FALSE
+0
+0
+40
+1000
+FALSE
+0
+0
+120
+24
+FALSE
+False
+False
+False
+0
+FALSE
+False
+False
+False
+0
+FALSE
+False
+False
+False
+0
+=====<<<LINEARIZADOR>>>=====)
+
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>

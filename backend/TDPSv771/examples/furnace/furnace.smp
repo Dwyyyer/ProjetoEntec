@@ -1,0 +1,697 @@
+Controle de Temperatura de Forno
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:oC; 0.00; 800.00; 0.00; 800.00;
+M16:seg; 0.00; 100.00;0.00;100.00;
+M17:%; 0.00; 100.00;0.00;100.00;
+M18:%; 0.00; 100.00;0.00;100.00;
+M19:%; 0.00; 100.00;0.00;100.00;
+M20:%; 0.00; 100.00;0.00;100.00;
+M21:L/min; 0.00; 300.00; 0.00; 300.00;
+M22:%; 0.00; 100.00;0.00;100.00;
+M23:%; 0.00; 100.00;0.00;100.00;
+M24:oC; 0.00; 800.00; 0.00; 800.00;
+M25:%; 0.00; 100.00;0.00;100.00;
+M26:%; 0.00; 100.00;0.00;100.00;
+M27:%; 0.00; 100.00;0.00;100.00;
+M28:%; 0.00; 100.00;0.00;100.00;
+M29:%; 0.00; 100.00;0.00;100.00;
+M30:%; 0.00; 100.00;0.00;100.00;
+M31:%; 0.00; 100.00;0.00;100.00;
+M32:%; 0.00; 100.00;0.00;100.00;
+M33:%; 0.00; 100.00;0.00;100.00;
+M34:%; 0.00; 100.00;0.00;100.00;
+M35:%; 0.00; 100.00;0.00;100.00;
+M36:%; 0.00; 100.00;0.00;100.00;
+M37:%; 0.00; 100.00;0.00;100.00;
+M38:%; 0.00; 100.00;0.00;100.00;
+M39:%; 0.00; 100.00;0.00;100.00;
+M40:%; 0.00; 100.00;0.00;100.00;
+M41:oC; 0.00; 800.00; 0.00; 800.00;
+M42:L/min; 0.00; 300.00; 0.00; 300.00;
+M43:%; 0.00; 100.00;0.00;100.00;
+M44:%; 0.00; 100.00;0.00;100.00;
+M45:%; 0.00; 100.00;0.00;100.00;
+M46:%; 0.00; 100.00;0.00;100.00;
+M47:%; 0.00; 100.00;0.00;100.00;
+M48:%; 0.00; 100.00;0.00;100.00;
+M49:%; 0.00; 100.00;0.00;100.00;
+M50:%; 0.00; 100.00;0.00;100.00;
+M51:%; 0.00; 100.00;0.00;100.00;
+M52:%; 0.00; 100.00;0.00;100.00;
+M53:%; 0.00; 100.00;0.00;100.00;
+M54:%; 0.00; 100.00;0.00;100.00;
+M55:%; 0.00; 100.00;0.00;100.00;
+M56:%; 0.00; 100.00;0.00;100.00;
+M57:%; 0.00; 100.00;0.00;100.00;
+M58:%; 0.00; 100.00;0.00;100.00;
+M59:%; 0.00; 100.00;0.00;100.00;
+M60:%; 0.00; 100.00;0.00;100.00;
+M61:%; 0.00; 100.00;0.00;100.00;
+M62:%; 0.00; 100.00;0.00;100.00;
+M63:%; 0.00; 100.00;0.00;100.00;
+M64:%; 0.00; 100.00;0.00;100.00;
+M65:%; 0.00; 100.00;0.00;100.00;
+M66:%; 0.00; 100.00;0.00;100.00;
+M67:%; 0.00; 100.00;0.00;100.00;
+M68:%; 0.00; 100.00;0.00;100.00;
+M69:%; 0.00; 100.00;0.00;100.00;
+M70:%; 0.00; 100.00;0.00;100.00;
+M71:%; 0.00; 100.00;0.00;100.00;
+M72:%; 0.00; 100.00;0.00;100.00;
+M73:%; 0.00; 100.00;0.00;100.00;
+M74:%; 0.00; 100.00;0.00;100.00;
+M75:%; 0.00; 100.00;0.00;100.00;
+M76:%; 0.00; 100.00;0.00;100.00;
+M77:%; 0.00; 100.00;0.00;100.00;
+M78:%; 0.00; 100.00;0.00;100.00;
+M79:%; 0.00; 100.00;0.00;100.00;
+M80:%; 0.00; 100.00;0.00;100.00;
+M81:%; 0.00; 100.00;0.00;100.00;
+M82:%; 0.00; 100.00;0.00;100.00;
+M83:%; 0.00; 100.00;0.00;100.00;
+M84:%; 0.00; 100.00;0.00;100.00;
+M85:%; 0.00; 100.00;0.00;100.00;
+M86:%; 0.00; 100.00;0.00;100.00;
+M87:%; 0.00; 100.00;0.00;100.00;
+M88:%; 0.00; 100.00;0.00;100.00;
+M89:%; 0.00; 100.00;0.00;100.00;
+M90:%; 0.00; 100.00;0.00;100.00;
+M91:%; 0.00; 100.00;0.00;100.00;
+M92:%; 0.00; 100.00;0.00;100.00;
+M93:%; 0.00; 100.00;0.00;100.00;
+M94:%; 0.00; 100.00;0.00;100.00;
+M95:%; 0.00; 100.00;0.00;100.00;
+M96:%; 0.00; 100.00;0.00;100.00;
+<<Tracks>>
+TRUE
+Setpoint TIC01(oC)
+473
+94
+ 5.00000000000000E+0001
+TRUE
+TRUE
+Filtro Transmissor(seg)
+257
+228
+ 2.50000000000000E+0000
+FALSE
+FALSE
+
+250
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+314
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+378
+844
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+442
+844
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:TIC01
+{C01/02} Desc: SP TIC01
+{C01/03} Kc:0.2
+{C01/04} Ti:20
+{C01/05} Td:0
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax: 0.00
+{C01/12} Escala PVmin: 800.00
+{C01/13} BackMV CK:False
+{C01/14} Indice lista PV:23
+{C01/15} Indice lista SPR:14
+{C01/16} Endereço  BackMV:1
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:True
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:18.04
+{C01/24} Erroant:-8.90
+{C01/25} PVant:58.90
+{C01/26} Habilita Modo Remoto:False
+{C01/27} Habilita Modo Auto:True
+{C01/28} 50.00
+{C01/29} 66.26
+<Process>
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:FT01
+{P21/02} Desc:Vazão de Combustível
+{P21/03} Indice lista PV:0
+{P21/04} Tal 1:1.8
+{P21/05} Tal 2:0
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:0
+{P21/08} Tempo Morto:0.3
+{P21/09} Ganho:0.93
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:0
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:66.28
+{P21/19} Y2:62.08
+{P21/20} Y0old:66.35
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:66.40
+{P21/24} IntAc1:66.75
+{P21/25} IntAc2:66.75
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:TT01a
+{P22/02} Desc:Dinamica Temp a
+{P22/03} Indice lista PV:41
+{P22/04} Tal 1:2
+{P22/05} Tal 2:2.5
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:0
+{P22/08} Tempo Morto:0
+{P22/09} Ganho:0.6+0.4*(1-M97)
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:1.3
+{P22/14} Tipo FT:0
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:62.10
+{P22/19} Y2:63.20
+{P22/20} Y0old:62.38
+{P22/21} Y1old:0.00
+{P22/22} Y1old2:0.00
+{P22/23} x5old:62.20
+{P22/24} IntAc1:62.78
+{P22/25} IntAc2:63.20
+=====<<<PROCESSO:23>>>=====
+{P23/01} Tag:TT01b
+{P23/02} Desc:Dinamica Temp b
+{P23/03} Indice lista PV:21
+{P23/04} Tal 1:4
+{P23/05} Tal 2:5
+{P23/06} Habilita Desat Sat:False
+{P23/07} Histerese:0
+{P23/08} Tempo Morto:0
+{P23/09} Ganho:1
+{P23/10} Tipo Valv:0
+{P23/11} Agarramento:0
+{P23/12} RateLimiter:0
+{P23/13} Const. Tempo Atuador:3
+{P23/14} Tipo FT:0
+{P23/15} Num.Ciclos:1x10
+{P23/16} Lead:0
+{P23/17} Lag:0
+{P23/18} X0:63.20
+{P23/19} Y2:60.53
+{P23/20} Y0old:63.43
+{P23/21} Y1old:0.00
+{P23/22} Y1old2:0.00
+{P23/23} x5old:63.30
+{P23/24} IntAc1:62.89
+{P23/25} IntAc2:60.53
+=====<<<PROCESSO:24>>>=====
+{P24/01} Tag:TY_LAG
+{P24/02} Desc:Medição de Temperatura
+{P24/03} Indice lista PV:40
+{P24/04} Tal 1:M16
+{P24/05} Tal 2:0
+{P24/06} Habilita Desat Sat:False
+{P24/07} Histerese:0
+{P24/08} Tempo Morto:0
+{P24/09} Ganho:1
+{P24/10} Tipo Valv:0
+{P24/11} Agarramento:0
+{P24/12} RateLimiter:0
+{P24/13} Const. Tempo Atuador:0
+{P24/14} Tipo FT:0
+{P24/15} Num.Ciclos:1x10
+{P24/16} Lead:0
+{P24/17} Lag:0
+{P24/18} X0:60.84
+{P24/19} Y2:58.90
+{P24/20} Y0old:60.84
+{P24/21} Y1old:0.00
+{P24/22} Y1old2:0.00
+{P24/23} x5old:60.30
+{P24/24} IntAc1:58.90
+{P24/25} IntAc2:58.90
+<Blocs>
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:TT01c
+{B41/02} Desc:Temperatura Interna + Ruído
+{B41/03} Funcao:M23+M82
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:-5
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:FY01
+{B42/02} Desc:Distúrbio na Vazão
+{B42/03} Funcao:M98*M81+M21
+{B42/04} Lim Sup:100
+{B42/05} Lim Inf:0
+{B42/06} Habilita Lim Sup:True
+{B42/07} Habilita Lim Inf:True
+<Registers>
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<REGISTRADOR:202>>>=====
+{R/01} Tag:Filtragem
+{R/02} Desc:Efeito na Temp Interna
+{R/03} Ind Lista Var1:23
+{R/04} Desc Var1:PV filtrada
+{R/05} Ind Lista Var2:40
+{R/06} Desc Var2:PV Original
+{R/07} Ind Lista Var3:0
+{R/08} Desc Var3:MV
+{R/09} Ind Lista Base Tempo:0
+<Textos Animados>
+True
+False
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:Abertura Válvula
+{T/02} Funcao:M01
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:Temp + ruído de medição
+{T/02} Funcao:M41
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max: 800.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:40
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Temp. Filtrada
+{T/02} Funcao:M24
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max: 800.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:23
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:Porta
+{T/02} Funcao:Fechada/Aberta
+{T/03} Casas Decimais:2
+{T/04} Unidade:Fechada/Aberta
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:1
+{T/08} Variavel:96
+=====<<<TEXTO ANIMADO:106>>>=====
+{T/01} Desc:Vazão Combustível
+{T/02} Funcao:M42
+{T/03} Casas Decimais:1
+{T/04} Unidade:L/min
+{T/05} Faixa Max: 300.00
+{T/06} Faixa Min: 0.00
+{T/07} Tipo:0
+{T/08} Variavel:41
+=====<<<COORDENADAS>>>=====
+TIC01
+475
+317
+True
+FT01
+688
+0
+False
+TT01a
+753
+530
+False
+TT01b
+755
+558
+False
+TY_LAG
+94
+271
+False
+Filtragem
+11
+254
+True
+TT01c
+10
+272
+False
+FY01
+691
+28
+False
+258
+607
+True
+234
+81
+True
+435
+49
+True
+131
+10
+True
+51
+621
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 3
+{P/02} 30
+{P/03} -5
+{P/04} 5
+{P/05} 0.25
+{P/06} 2
+{P/07} Ruído
+{P/08} -0.6
+{P/09} 0.6
+{P/10} -0.06
+{P/11} 0
+{P/12} Descrição
+{P/13} Min.
+{P/14} Máx.
+{P/15} Valor
+{P/16} 0
+{P/17} Descrição
+{P/18} Min.
+{P/19} Máx.
+{P/20} Valor
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} Min.
+{P/34} Máx.
+{P/35} Valor
+{P/36} 0
+{P/37} Descrição
+{P/38} Min.
+{P/39} Máx.
+{P/40} Valor
+{P/41} 0
+{P/42} Descrição
+{P/43} Min.
+{P/44} Máx.
+{P/45} Valor
+{P/46} 0
+{P/47} Descrição
+{P/48} Min.
+{P/49} Máx.
+{P/50} Valor
+{P/51} 0
+{P/52} Descrição
+{P/53} /
+{P/54} /
+{P/55} Valor
+{P/56} 0
+{P/57} Descrição
+{P/58} /
+{P/59} /
+{P/60} Valor
+{P/61} 0
+{P/62} Descrição
+{P/63} /
+{P/64} /
+{P/65} Valor
+{P/66} 0
+{P/67} Descrição
+{P/68} /
+{P/69} /
+{P/70} Valor
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+14
+44
+TRUE
+0
+96
+104
+8
+clBtnShadow
+clYellow
+88
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+160
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+232
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+304
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+112
+624
+FALSE
+-1
+56
+146
+1005
+FALSE
+0
+-1007
+417
+573
+TRUE
+Fechada
+Aberta
+Comando Porta
+0
+TRUE
+Desabilitado
+Habilitado
+Dist. Vazão
+0
+FALSE
+Linear
+Não Linear
+Válvula
+0
+=====<<<LINEARIZADOR>>>=====)
+01  MV TIC01
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+
+- Controle PID em processo de ordem elevada;
+- Tratamento de ruído de medição
+
+Descrição: A temperatura do forno tubular é regulada por 
+uma malha de controle. Esta utiliza um elemento primário de 
+temperatura (TE) do tipo Termopar, um transmissor 4-20 mA 
+(TT) com filtro analógico, um controlador do tipo PID 
+implementado em um Controlador Lógico Programável e uma 
+válvula para controle da vazão de combustível. Como o 
+controlador é implementado em computador, portanto digital, 
+conversores Analógico/Digital  e Digital/Analógico são 
+utilizados para adequar a comunicação do CLP com os 
+instrumentos de campo. 
+
+Objetivo: Estudar um processo com dinâmica de ordem 
+elevada (com diversos pólos reais) e sujeito a um distúrbio 
+intenso e previsível: a abertura da porta do forno. Notar 
+também que devido a dinâmica lenta e de ordem elevada, o 
+uso da ação derivativa resulta em significativa melhora de 
+desempenho, tanto em mudanças de SP quanto na 
+compensação do distúrbios. Seu uso, no entanto, causa 
+grande atividade na saída do controlador devido a 
+amplificação de ruído de comunicação. Por isso um filtro 
+passa-baixa, ou seja, que atenua altas frequências, foi 
+instalado no transmissor de temperatura.
+
+Testes: 
+(1) Veriricar o desempenho de controle durante mudanças 
+de SP e abertura de porta do forno; 
+(2) Remover o filtro de sinal instalado na medição de 
+temperatura (parâmetro zero segundos) e avaliar o 
+comportamento do controlador
+
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>

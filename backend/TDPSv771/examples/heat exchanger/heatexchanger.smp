@@ -1,0 +1,884 @@
+Temperatura com Trocador de Calor V1
+screen.bmp
+<<<Unidades Engenharia>>>
+M15:%;0.00; 100.00; 0.00; 100.00;
+M16:;-100; 100.00;-100; 100.00;
+M17:oC;0.00; 100.00; 0.00; 100.00;
+M18:%;0.00; 100.00; 0.00; 100.00;
+M19:%;0.00; 100.00; 0.00; 100.00;
+M20:%;0.00; 100.00; 0.00; 100.00;
+M21:%;0.00; 100.00; 0.00; 100.00;
+M22:%;0.00; 100.00; 0.00; 100.00;
+M23:%;0.00; 100.00; 0.00; 100.00;
+M24:%;0.00; 100.00; 0.00; 100.00;
+M25:%;0.00; 100.00; 0.00; 100.00;
+M26:%;0.00; 100.00; 0.00; 100.00;
+M27:%;0.00; 100.00; 0.00; 100.00;
+M28:%;0.00; 100.00; 0.00; 100.00;
+M29:%;0.00; 100.00; 0.00; 100.00;
+M30:%;0.00; 100.00; 0.00; 100.00;
+M31:%;0.00; 100.00; 0.00; 100.00;
+M32:%;0.00; 100.00; 0.00; 100.00;
+M33:%;0.00; 100.00; 0.00; 100.00;
+M34:%;0.00; 100.00; 0.00; 100.00;
+M35:%;0.00; 100.00; 0.00; 100.00;
+M36:%;0.00; 100.00; 0.00; 100.00;
+M37:%;0.00; 100.00; 0.00; 100.00;
+M38:%;0.00; 100.00; 0.00; 100.00;
+M39:%;0.00; 100.00; 0.00; 100.00;
+M40:%;0.00; 100.00; 0.00; 100.00;
+M41:oC;0.00; 100.00; 0.00; 100.00;
+M42:oC;0.00; 100.00;M17-20;M17+20;
+M43:%;0.00; 100.00; 0.00; 100.00;
+M44:L/min;0.00; 60.00;0.00;60.00;
+M45:%;0.00; 100.00; 0.00; 100.00;
+M46:%;0.00; 100.00; 0.00; 100.00;
+M47:%;0.00; 100.00; 0.00; 100.00;
+M48:%;0.00; 100.00; 0.00; 100.00;
+M49:%;0.00; 100.00; 0.00; 100.00;
+M50:%;0.00; 100.00; 0.00; 100.00;
+M51:%;0.00; 100.00; 0.00; 100.00;
+M52:%;0.00; 100.00; 0.00; 100.00;
+M53:%;0.00; 100.00; 0.00; 100.00;
+M54:%;0.00; 100.00; 0.00; 100.00;
+M55:%;0.00; 100.00; 0.00; 100.00;
+M56:%;0.00; 100.00; 0.00; 100.00;
+M57:%;0.00; 100.00; 0.00; 100.00;
+M58:%;0.00; 100.00; 0.00; 100.00;
+M59:%;0.00; 100.00; 0.00; 100.00;
+M60:%;0.00; 100.00; 0.00; 100.00;
+M61:%;0.00; 100.00; 0.00; 100.00;
+M62:%;0.00; 100.00; 0.00; 100.00;
+M63:%;0.00; 100.00; 0.00; 100.00;
+M64:%;0.00; 100.00; 0.00; 100.00;
+M65:%;0.00; 100.00; 0.00; 100.00;
+M66:%;0.00; 100.00; 0.00; 100.00;
+M67:%;0.00; 100.00; 0.00; 100.00;
+M68:%;0.00; 100.00; 0.00; 100.00;
+M69:%;0.00; 100.00; 0.00; 100.00;
+M70:%;0.00; 100.00; 0.00; 100.00;
+M71:%;0.00; 100.00; 0.00; 100.00;
+M72:%;0.00; 100.00; 0.00; 100.00;
+M73:%;0.00; 100.00; 0.00; 100.00;
+M74:%;0.00; 100.00; 0.00; 100.00;
+M75:%;0.00; 100.00; 0.00; 100.00;
+M76:%;0.00; 100.00; 0.00; 100.00;
+M77:%;0.00; 100.00; 0.00; 100.00;
+M78:%;0.00; 100.00; 0.00; 100.00;
+M79:%;0.00; 100.00; 0.00; 100.00;
+M80:%;0.00; 100.00; 0.00; 100.00;
+M81:%;0.00; 100.00; 0.00; 100.00;
+M82:%;0.00; 100.00; 0.00; 100.00;
+M83:%;0.00; 100.00; 0.00; 100.00;
+M84:%;0.00; 100.00; 0.00; 100.00;
+M85:%;0.00; 100.00; 0.00; 100.00;
+M86:%;0.00; 100.00; 0.00; 100.00;
+M87:%;0.00; 100.00; 0.00; 100.00;
+M88:%;0.00; 100.00; 0.00; 100.00;
+M89:%;0.00; 100.00; 0.00; 100.00;
+M90:%;0.00; 100.00; 0.00; 100.00;
+M91:%;0.00; 100.00; 0.00; 100.00;
+M92:%;0.00; 100.00; 0.00; 100.00;
+M93:%;0.00; 100.00; 0.00; 100.00;
+M94:%;0.00; 100.00; 0.00; 100.00;
+M95:%;0.00; 100.00; 0.00; 100.00;
+M96:%;0.00; 100.00; 0.00; 100.00;
+<<Tracks>>
+TRUE
+Temp. Média de Entrada(TT1)
+528
+30
+ 3.50000000000000E+0001
+TRUE
+TRUE
+Bias 
+217
+349
+ 7.20000000000000E+0001
+FALSE
+TRUE
+Setpoint TIC2 
+136
+560
+ 6.00000000000000E+0001
+TRUE
+FALSE
+
+298
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+362
+788
+ 0.00000000000000E+0000
+TRUE
+FALSE
+
+426
+788
+ 0.00000000000000E+0000
+TRUE
+<Controls>
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<CONTROLADOR:01>>>=====
+{C01/01} Tag:TIC2
+{C01/02} Desc: SP TIC2
+{C01/03} Kc:1.5930
+{C01/04} Ti:9.6956
+{C01/05} Td:1.3976
+{C01/06} Bias:50
+{C01/07} Fator a:1
+{C01/08} Tf Filtro:0
+{C01/09} COmim:0
+{C01/10} COMax:100
+{C01/11} Escala PVMax:0.00
+{C01/12} Escala PVmin: 100.00
+{C01/13} BackMV CK:True
+{C01/14} Indice lista PV:41
+{C01/15} Indice lista SPR:16
+{C01/16} Endereço  BackMV:44
+{C01/17} Acao FF:50
+{C01/18} Habilita SPR:True
+{C01/19} Habilita FF:False
+{C01/20} Tipo acao:1
+{C01/21} Derivada na PV:1
+{C01/22} Estrutura ISA:1
+{C01/23} Iant:-18.33
+{C01/24} Erroant:-0.29
+{C01/25} PVant:60.29
+{C01/26} Habilita Modo Remoto:False
+{C01/27} Habilita Modo Auto:True
+{C01/28} 60.00
+{C01/29} 31.16
+<Process>
+True
+True
+False
+False
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<PROCESSO:21>>>=====
+{P21/01} Tag:FT1_TT2
+{P21/02} Desc:
+{P21/03} Indice lista PV:21
+{P21/04} Tal 1:8
+{P21/05} Tal 2:0
+{P21/06} Habilita Desat Sat:False
+{P21/07} Histerese:0
+{P21/08} Tempo Morto:2
+{P21/09} Ganho:0.65
+{P21/10} Tipo Valv:0
+{P21/11} Agarramento:0
+{P21/12} RateLimiter:0
+{P21/13} Const. Tempo Atuador:0
+{P21/14} Tipo FT:0
+{P21/15} Num.Ciclos:1x10
+{P21/16} Lead:0
+{P21/17} Lag:0
+{P21/18} X0:38.23
+{P21/19} Y2:25.08
+{P21/20} Y0old:38.27
+{P21/21} Y1old:0.00
+{P21/22} Y1old2:0.00
+{P21/23} x5old:38.20
+{P21/24} IntAc1:38.58
+{P21/25} IntAc2:38.58
+=====<<<PROCESSO:22>>>=====
+{P22/01} Tag:FT1
+{P22/02} Desc:Dinâmica da Vazão
+{P22/03} Indice lista PV:44
+{P22/04} Tal 1:1.7
+{P22/05} Tal 2:0
+{P22/06} Habilita Desat Sat:False
+{P22/07} Histerese:0
+{P22/08} Tempo Morto:0.4
+{P22/09} Ganho:1.22
+{P22/10} Tipo Valv:0
+{P22/11} Agarramento:0
+{P22/12} RateLimiter:0
+{P22/13} Const. Tempo Atuador:0
+{P22/14} Tipo FT:0
+{P22/15} Num.Ciclos:1x10
+{P22/16} Lead:0
+{P22/17} Lag:0
+{P22/18} X0:31.18
+{P22/19} Y2:38.22
+{P22/20} Y0old:31.23
+{P22/21} Y1old:0.00
+{P22/22} Y1old2:0.00
+{P22/23} x5old:31.20
+{P22/24} IntAc1:31.33
+{P22/25} IntAc2:31.33
+=====<<<PROCESSO:25>>>=====
+{P25/01} Tag:TT1-TT2
+{P25/02} Desc:
+{P25/03} Indice lista PV:40
+{P25/04} Tal 1:3
+{P25/05} Tal 2:0
+{P25/06} Habilita Desat Sat:False
+{P25/07} Histerese:0
+{P25/08} Tempo Morto:7
+{P25/09} Ganho:1
+{P25/10} Tipo Valv:0
+{P25/11} Agarramento:0
+{P25/12} RateLimiter:0
+{P25/13} Const. Tempo Atuador:0
+{P25/14} Tipo FT:0
+{P25/15} Num.Ciclos:1x10
+{P25/16} Lead:0
+{P25/17} Lag:0
+{P25/18} X0:35.36
+{P25/19} Y2:35.21
+{P25/20} Y0old:35.36
+{P25/21} Y1old:0.00
+{P25/22} Y1old2:0.00
+{P25/23} x5old:35.50
+{P25/24} IntAc1:35.21
+{P25/25} IntAc2:35.21
+=====<<<PROCESSO:26>>>=====
+{P26/01} Tag:FF_TT1
+{P26/02} Desc:FeedForwarrd
+{P26/03} Indice lista PV:40
+{P26/04} Tal 1:3
+{P26/05} Tal 2:3
+{P26/06} Habilita Desat Sat:True
+{P26/07} Histerese:0
+{P26/08} Tempo Morto:3.13
+{P26/09} Ganho:-1.25
+{P26/10} Tipo Valv:0
+{P26/11} Agarramento:0
+{P26/12} RateLimiter:0
+{P26/13} Const. Tempo Atuador:0
+{P26/14} Tipo FT:2
+{P26/15} Num.Ciclos:1x10
+{P26/16} Lead:3
+{P26/17} Lag:8.53
+{P26/18} X0:35.36
+{P26/19} Y2:-44.42
+{P26/20} Y0old:35.98
+{P26/21} Y1old:35.54
+{P26/22} Y1old2:0.00
+{P26/23} x5old:35.50
+{P26/24} IntAc1:0.00
+{P26/25} IntAc2:0.00
+<Blocs>
+True
+True
+True
+True
+True
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<BLOCO CALC:41>>>=====
+{B41/01} Tag:TT1
+{B41/02} Desc:Temperatura Medida por TT1
+{B41/03} Funcao:M15+M97*(M89+M90)
+{B41/04} Lim Sup:105
+{B41/05} Lim Inf:-5
+{B41/06} Habilita Lim Sup:False
+{B41/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:42>>>=====
+{B42/01} Tag:TT2
+{B42/02} Desc:Temperatura Medida por TT2
+{B42/03} Funcao:M25+M21
+{B42/04} Lim Sup:105
+{B42/05} Lim Inf:-5
+{B42/06} Habilita Lim Sup:False
+{B42/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:43>>>=====
+{B43/01} Tag:Soma Bias
+{B43/02} Desc:
+{B43/03} Funcao:M26+(M16*2-100)
+{B43/04} Lim Sup:100
+{B43/05} Lim Inf:0
+{B43/06} Habilita Lim Sup:False
+{B43/07} Habilita Lim Inf:False
+=====<<<BLOCO CALC:44>>>=====
+{B44/01} Tag:FY1
+{B44/02} Desc:Vazão de Óleo Térmico
+{B44/03} Funcao:M22+M88
+{B44/04} Lim Sup:100
+{B44/05} Lim Inf:0
+{B44/06} Habilita Lim Sup:True
+{B44/07} Habilita Lim Inf:True
+=====<<<BLOCO CALC:45>>>=====
+{B45/01} Tag:MV(FF+FB)
+{B45/02} Desc:Soma ações gerando MV
+{B45/03} Funcao:M01+M11*M43
+{B45/04} Lim Sup:100
+{B45/05} Lim Inf:0
+{B45/06} Habilita Lim Sup:True
+{B45/07} Habilita Lim Inf:True
+<Registers>
+True
+False
+True
+True
+True
+True
+True
+True
+True
+True
+=====<<<REGISTRADOR:201>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:203>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:204>>>=====
+{R/01} Tag:TT1_TT2
+{R/02} Desc:Mostra a relação dinamica entre TT1 e TT2
+{R/03} Ind Lista Var1:41
+{R/04} Desc Var1:TT2
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:40
+{R/08} Desc Var3:TT1
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:205>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:206>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:207>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:208>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:209>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+=====<<<REGISTRADOR:210>>>=====
+{R/01} Tag:
+{R/02} Desc:
+{R/03} Ind Lista Var1:-1
+{R/04} Desc Var1:
+{R/05} Ind Lista Var2:-1
+{R/06} Desc Var2:
+{R/07} Ind Lista Var3:-1
+{R/08} Desc Var3:
+{R/09} Ind Lista Base Tempo:0
+<Textos Animados>
+True
+True
+True
+True
+True
+False
+True
+True
+True
+False
+False
+True
+False
+False
+False
+False
+False
+False
+False
+False
+=====<<<TEXTO ANIMADO:101>>>=====
+{T/01} Desc:TT2
+{T/02} Funcao:M42
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:102>>>=====
+{T/01} Desc:
+{T/02} Funcao:M83
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max: 100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:25
+=====<<<TEXTO ANIMADO:103>>>=====
+{T/01} Desc:FT1
+{T/02} Funcao:M22
+{T/03} Casas Decimais:1
+{T/04} Unidade:L/min
+{T/05} Faixa Max: 60.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:43
+=====<<<TEXTO ANIMADO:104>>>=====
+{T/01} Desc:Ação FeedForward
+{T/02} Funcao:M11*M43
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:105>>>=====
+{T/01} Desc:Ação FeedBack
+{T/02} Funcao:
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:107>>>=====
+{T/01} Desc:TT1
+{T/02} Funcao:M41
+{T/03} Casas Decimais:1
+{T/04} Unidade:oC
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:2
+{T/08} Variavel:0
+=====<<<TEXTO ANIMADO:108>>>=====
+{T/01} Desc:FF
+{T/02} Funcao:Desligado/Ligado
+{T/03} Casas Decimais:2
+{T/04} Unidade:
+{T/05} Faixa Max:100
+{T/06} Faixa Min:0
+{T/07} Tipo:1
+{T/08} Variavel:10
+=====<<<TEXTO ANIMADO:109>>>=====
+{T/01} Desc:
+{T/02} Funcao:M43
+{T/03} Casas Decimais:0
+{T/04} Unidade:%
+{T/05} Faixa Max:100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:2
+{T/08} Variavel:42
+=====<<<TEXTO ANIMADO:112>>>=====
+{T/01} Desc:Abertura FCV113
+{T/02} Funcao:M43
+{T/03} Casas Decimais:1
+{T/04} Unidade:%
+{T/05} Faixa Max: 100.00
+{T/06} Faixa Min:0.00
+{T/07} Tipo:0
+{T/08} Variavel:44
+=====<<<COORDENADAS>>>=====
+TIC2
+40
+563
+True
+FT1_TT2
+710
+365
+False
+FT1
+730
+466
+False
+TT1-TT2
+709
+337
+False
+FF_TT1
+274
+278
+True
+
+96
+233
+False
+
+581
+204
+False
+TT1_TT2
+564
+73
+True
+
+210
+3
+False
+
+210
+3
+False
+
+210
+3
+False
+
+210
+3
+False
+
+210
+3
+False
+
+210
+3
+False
+TT1
+729
+423
+False
+TT2
+813
+351
+False
+Soma Bias
+592
+335
+False
+FY1
+731
+492
+False
+MV(FF+FB)
+160
+63
+False
+412
+520
+True
+260
+322
+True
+241
+71
+True
+101
+307
+True
+30
+359
+True
+413
+107
+True
+152
+324
+True
+182
+315
+True
+197
+149
+True
+=====<<<REGISTRADOR XY>>>=====
+{X/01} 
+{X/02} 
+{X/03} 
+{X/04} 
+{X/05} 
+{X/06} 
+{X/07} 
+{X/08} 
+{X/09} 
+{X/10} 
+{X/11} 
+{X/12} 
+{X/13} 
+{X/14} 
+{X/15} 
+{X/16} 
+{X/17} 
+{X/18} 
+vago
+vago
+vago
+<Parametros>
+{P/01} 0
+{P/02} Descrição
+{P/03} Min.
+{P/04} Máx.
+{P/05} 40
+{P/06} 0
+{P/07} Descrição
+{P/08} Min.
+{P/09} Máx.
+{P/10} Valor
+{P/11} 0
+{P/12} Descrição
+{P/13} Inicial
+{P/14} Ganho
+{P/15} Valor
+{P/16} 0
+{P/17} Descrição
+{P/18} Min.
+{P/19} Máx.
+{P/20} Valor
+{P/21} 0
+{P/22} Descrição
+{P/23} Min.
+{P/24} Máx.
+{P/25} Valor
+{P/26} 0
+{P/27} Descrição
+{P/28} Min.
+{P/29} Máx.
+{P/30} Valor
+{P/31} 0
+{P/32} Descrição
+{P/33} Min.
+{P/34} Máx.
+{P/35} Valor
+{P/36} 2
+{P/37} Descrição
+{P/38} -0.3
+{P/39} 0.3
+{P/40} -0.14
+{P/41} 3
+{P/42} 70
+{P/43} -15
+{P/44} 15
+{P/45} 0.34
+{P/46} 6
+{P/47} TT1
+{P/48} 0
+{P/49} 0.2
+{P/50} 0.00
+{P/51} 0
+{P/52} Descrição
+{P/53} /
+{P/54} /
+{P/55} Valor
+{P/56} 0
+{P/57} Descrição
+{P/58} /
+{P/59} /
+{P/60} Valor
+{P/61} 0
+{P/62} Descrição
+{P/63} /
+{P/64} /
+{P/65} Valor
+{P/66} 0
+{P/67} Descrição
+{P/68} /
+{P/69} /
+{P/70} Valor
+{P/71} 0
+{P/72} Descrição
+{P/73} /
+{P/74} /
+{P/75} Valor
+{P/76} 0
+{P/77} Descrição
+{P/78} /
+{P/79} /
+{P/80} Valor
+16
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+88
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+160
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+232
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+304
+400
+FALSE
+0
+-1
+50
+50
+clRed
+clLime
+105
+271
+TRUE
+3
+0
+40
+1000
+FALSE
+0
+0
+292
+560
+TRUE
+Desligado
+Ligado
+Dist. Aleat TT1
+1
+FALSE
+False
+False
+False
+0
+FALSE
+False
+False
+False
+0
+=====<<<LINEARIZADOR>>>=====)
+
+FALSE
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+FALSE
+<INICIO_COMENTARIOS>
+
+- Controle usando elo de realimentação mais elo de 
+compensação direta
+
+Descrição:  A temperatura do fluido de processo medida 
+pelo instrumento TT2 é regulada manipulando-se a vazão 
+de óleo térmico aquecido conduzido ao trocador de calor. A 
+fim de melhorar a compensação de distúrbios, um elo de 
+controle em malha aberta foi adicionado para gerar uma 
+ação de compensação direta ("Feedforward") a partir da 
+medição antecipada da temperatura. Esta  medição é 
+gerada pelo instrumento TT1, instalado cerca de 20 metros 
+antes do equipamento.
+
+Objetivo: Avaliar o ganho de desempenho regulatório obtido 
+com a adição de elos de compensação direta 
+(FeedForward).
+
+Testes: (1) Alterar a temperatura média de entrada do fluido 
+de processo com um acréscimo ou decréscimo de 10 graus. 
+Registrar o desvio de temperatura em TT2 e o tempo gasto 
+pela ação feedback para restabelecer a temperatura 
+original. 
+(2) Repetir o teste habilitando o elo feedforward.
+
+<FIM_COMENTARIOS>
+<BEGIN_COMMENTS>
+<END_COMMENTS>
